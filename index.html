@@ -1,0 +1,149 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <div class="hero-container">
+    <h1 class="hero-title">
+      <span class="highlight">C3</span> Lab
+    </h1>
+    <p class="hero-subtitle">
+      Community-Centered Computing Lab
+    </p>
+    <p class="hero-tagline">
+      A research lab in the <a href="{{ site.lab.department_url }}">Department of Computer Sciences</a> at Metropolitan State University of Denver
+    </p>
+    <div class="hero-cta">
+      <a href="{{ '/about/' | relative_url }}" class="btn btn-primary">Learn More</a>
+      <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline">Our Projects</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-container">
+    <header class="section-header">
+      <h2 class="section-title">Our Mission</h2>
+      <p class="section-subtitle">
+        Designing and building technologies that support communities through accessible data systems, applied AI, and user-centered computing.
+      </p>
+    </header>
+
+    <div class="mission-content" style="max-width: 800px; margin: 0 auto; text-align: center;">
+      <p>
+        The C3 Lab supports research and development projects that create technology for communities, including statewide data platforms, conversational AI systems, STEM ecosystem tools, and campus engagement applications.
+      </p>
+      <p>
+        Our work emphasizes <strong>human-centered computing</strong>, <strong>applied AI</strong>, <strong>LLM-driven interfaces</strong>, <strong>data engineering</strong>, <strong>geospatial integration</strong>, and <strong>accessible design</strong>.
+      </p>
+      <p>
+        Students in the C3 Lab work on production software systems, contribute to federal and state-funded research, and help build platforms that directly benefit Colorado communities and MSU Denver.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="section-container">
+    <header class="section-header">
+      <h2 class="section-title">Current Projects</h2>
+      <p class="section-subtitle">
+        Research initiatives serving Colorado communities
+      </p>
+    </header>
+
+    <div class="projects-grid">
+      <article class="project-card">
+        <h3 class="project-card-title">Colorado Sustainability Hub</h3>
+        <span class="project-card-funding">NSF Award #2318730</span>
+        <p class="project-card-description">
+          A statewide sustainability-data platform integrating AI, geospatial systems, and natural language interaction. Features Bili, an AI-powered assistant for exploring Colorado's environmental data.
+        </p>
+        <a href="{{ '/projects/sustainability-hub/' | relative_url }}" class="project-card-link">
+          Learn more
+        </a>
+      </article>
+
+      <article class="project-card">
+        <h3 class="project-card-title">RILE Connect</h3>
+        <span class="project-card-funding">SIPA GovGrants</span>
+        <p class="project-card-description">
+          A statewide STEM mentorship and opportunity-matching platform connecting K-12 schools, higher education, nonprofits, and industry partners across Colorado.
+        </p>
+        <a href="{{ '/projects/rile-connect/' | relative_url }}" class="project-card-link">
+          Learn more
+        </a>
+      </article>
+
+      <article class="project-card">
+        <h3 class="project-card-title">Roadrunner Connect</h3>
+        <span class="project-card-funding">MSU Denver</span>
+        <p class="project-card-description">
+          A student-built mobile and web application supporting MSU Denver's campus community with event discovery, resource access, and community engagement features.
+        </p>
+        <a href="{{ '/projects/roadrunner-connect/' | relative_url }}" class="project-card-link">
+          Learn more
+        </a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-container">
+    <header class="section-header">
+      <h2 class="section-title">Lab Directors</h2>
+    </header>
+
+    <div class="team-grid">
+      <div class="team-member">
+        <img src="{{ '/assets/images/pittman.jpg' | relative_url }}" alt="Dr. Daniel Pittman" class="team-photo">
+        <h3 class="team-name">Dr. Daniel Pittman</h3>
+        <p class="team-role">Co-Director</p>
+        <p class="team-title">Associate Professor, Computer Sciences</p>
+        <p class="team-bio">
+          Research focus: Data Science, Machine Learning, Large Language Models, Human-Computer Interaction
+        </p>
+      </div>
+
+      <div class="team-member">
+        <img src="{{ '/assets/images/rajan.jpg' | relative_url }}" alt="Dr. Ranjidha Rajan" class="team-photo">
+        <h3 class="team-name">Dr. Ranjidha Rajan</h3>
+        <p class="team-role">Co-Director</p>
+        <p class="team-title">Associate Professor, Computer Sciences</p>
+        <p class="team-bio">
+          Research focus: AI for Good, Civic Technology, Human-Centered Computing, Learning Analytics
+        </p>
+      </div>
+    </div>
+
+    <p class="text-center mt-lg">
+      <a href="{{ '/team/' | relative_url }}" class="btn btn-primary">Meet Our Team</a>
+    </p>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="section-container">
+    <header class="section-header">
+      <h2 class="section-title">Latest Updates</h2>
+    </header>
+
+    <div class="updates-list">
+      {% for post in site.posts limit:3 %}
+      <article class="update-item">
+        <p class="update-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        <h3 class="update-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <p class="update-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      </article>
+      {% endfor %}
+    </div>
+
+    <p class="text-center mt-lg">
+      <a href="{{ '/updates/' | relative_url }}" class="btn btn-outline" style="border-color: var(--color-secondary); color: var(--color-secondary);">View All Updates</a>
+    </p>
+  </div>
+</section>

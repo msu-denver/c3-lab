@@ -1,0 +1,36 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-main">
+      <div class="footer-brand">
+        <span class="footer-logo">C3 Lab</span>
+        <p class="footer-tagline">Community-Centered Computing Lab</p>
+      </div>
+
+      <div class="footer-info">
+        <p>
+          <a href="{{ site.lab.department_url }}" target="_blank" rel="noopener">
+            {{ site.lab.department }}
+          </a>
+        </p>
+        <p>{{ site.lab.university }}</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p class="copyright">
+        &copy; {{ 'now' | date: "%Y" }} C3 Lab. All rights reserved.
+      </p>
+      <p class="footer-links">
+        <a href="https://github.com/{{ site.github_username }}/c3-lab" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Mobile nav toggle
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.nav-list').classList.toggle('active');
+    this.classList.toggle('active');
+  });
+</script>

@@ -1,0 +1,38 @@
+---
+layout: default
+title: Updates
+permalink: /updates/
+---
+
+<div class="page">
+  <header class="page-header">
+    <h1 class="page-title">Lab Updates</h1>
+    <p class="page-subtitle">News, publications, and highlights from the C3 Lab</p>
+  </header>
+
+  <div class="page-content">
+    <div class="updates-list">
+      {% for post in site.posts %}
+      <article class="update-item">
+        <p class="update-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        <h3 class="update-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        {% if post.categories %}
+        <p class="update-categories">
+          {% for category in post.categories %}
+          <span class="category">{{ category }}</span>
+          {% endfor %}
+        </p>
+        {% endif %}
+        <p class="update-excerpt">{{ post.excerpt | strip_html | truncate: 300 }}</p>
+        <a href="{{ post.url | relative_url }}">Read more &rarr;</a>
+      </article>
+      {% endfor %}
+    </div>
+
+    {% if site.posts.size == 0 %}
+    <p class="text-center">No updates yet. Check back soon!</p>
+    {% endif %}
+  </div>
+</div>

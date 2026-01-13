@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="project">
+  <header class="project-header">
+    <h1 class="project-title">{{ page.title }}</h1>
+    {% if page.tagline %}
+    <p class="project-tagline">{{ page.tagline }}</p>
+    {% endif %}
+
+    <div class="project-meta">
+      {% if page.funding %}
+      <div class="meta-item">
+        <span class="meta-label">Funding:</span>
+        <span class="meta-value">{{ page.funding }}</span>
+      </div>
+      {% endif %}
+      {% if page.amount %}
+      <div class="meta-item">
+        <span class="meta-label">Award Amount:</span>
+        <span class="meta-value">{{ page.amount }}</span>
+      </div>
+      {% endif %}
+      {% if page.pi %}
+      <div class="meta-item">
+        <span class="meta-label">Principal Investigator:</span>
+        <span class="meta-value">{{ page.pi }}</span>
+      </div>
+      {% endif %}
+      {% if page.copi %}
+      <div class="meta-item">
+        <span class="meta-label">Co-Principal Investigator:</span>
+        <span class="meta-value">{{ page.copi }}</span>
+      </div>
+      {% endif %}
+    </div>
+
+    {% if page.links %}
+    <div class="project-links">
+      {% for link in page.links %}
+      <a href="{{ link.url }}" class="project-link" target="_blank" rel="noopener">{{ link.text }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+</article>

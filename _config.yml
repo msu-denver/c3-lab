@@ -1,0 +1,80 @@
+# C3 Lab - Community-Centered Computing Lab
+# Jekyll Configuration
+
+title: "C3 Lab"
+tagline: "Community-Centered Computing Lab"
+description: "A research lab in the Department of Computer Sciences at MSU Denver, designing and building technologies that support communities through accessible data systems, applied AI, and user-centered computing."
+
+url: "https://msu-denver.github.io"
+baseurl: "/c3-lab"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings - using minima as base
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Team
+    url: /team/
+  - title: Projects
+    url: /projects/
+  - title: Updates
+    url: /updates/
+
+# Lab information
+lab:
+  name: "C3 Lab"
+  full_name: "Community-Centered Computing Lab"
+  university: "Metropolitan State University of Denver"
+  department: "Department of Computer Sciences"
+  department_url: "https://www.msudenver.edu/computer-sciences/"
+
+# Social links
+github_username: msu-denver
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .claude
+  - serve.sh
+  - CLAUDE.md
+  - README.md
