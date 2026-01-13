@@ -872,3 +872,53 @@ img {
 .mb-0 { margin-bottom: 0; }
 .mt-lg { margin-top: var(--spacing-lg); }
 .mb-lg { margin-bottom: var(--spacing-lg); }
+
+/* ============================================
+   Mobile Responsive Improvements
+   ============================================ */
+@media (max-width: 576px) {
+  /* Increase page padding on mobile */
+  .page,
+  .project,
+  .post {
+    padding-left: var(--spacing-lg);
+    padding-right: var(--spacing-lg);
+  }
+
+  /* Project meta - single column on mobile */
+  .project-meta {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-lg);
+    padding: var(--spacing-md);
+  }
+
+  .meta-item-copi {
+    text-align: left;
+    justify-self: start;
+  }
+
+  /* Smaller title on mobile */
+  .project-title {
+    font-size: 1.75rem;
+  }
+
+  .project-tagline {
+    font-size: 1.1rem;
+  }
+
+  /* Stack project link buttons vertically */
+  .project-links {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .project-link {
+    text-align: center;
+  }
+
+  /* App store badges */
+  .app-store-badges {
+    flex-direction: column;
+    align-items: center;
+  }
+}
