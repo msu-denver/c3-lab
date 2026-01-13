@@ -46,6 +46,8 @@ Students in the C3 Lab gain hands-on experience with:
 
 We welcome students from Computer Science, Data Science and Machine Learning, and Computer Security programs who are interested in applied research with community impact.
 
+**Interested in joining?** Complete our [Student Interest Form](https://forms.office.com/r/6wgNT9HscW) to express your interest in the lab!
+
 ## Department Affiliation
 
 The C3 Lab is part of the [Department of Computer Sciences]({{ site.lab.department_url }}) at MSU Denver. The department offers three bachelor's degree programs:
@@ -58,4 +60,4 @@ Our research complements the department's educational mission by providing stude
 
 ---
 
-Interested in learning more about the C3 Lab or getting involved? [Meet our team](/team/) or explore our [current projects](/projects/).
+Interested in learning more about the C3 Lab or getting involved? [Meet our team]({{ '/team/' | relative_url }}) or explore our [current projects]({{ '/projects/' | relative_url }}).

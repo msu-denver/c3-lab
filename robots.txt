@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://msu-denver.github.io/c3-lab/sitemap.xml

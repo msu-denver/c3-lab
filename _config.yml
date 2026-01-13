@@ -19,6 +19,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Collections
 collections:
@@ -66,6 +67,18 @@ lab:
 
 # Social links
 github_username: msu-denver
+
+# SEO settings
+author:
+  name: "C3 Lab"
+  url: "https://msu-denver.github.io/c3-lab"
+twitter:
+  card: summary
+social:
+  name: "C3 Lab - Community-Centered Computing Lab"
+  links:
+    - https://github.com/msu-denver
+locale: "en_US"
 
 # Exclude from build
 exclude:

@@ -1,48 +1,102 @@
 ---
 title: Roadrunner Connect
-tagline: A student-built mobile and web application supporting MSU Denver's campus community
+tagline: MSU Denver's all-in-one platform for campus event discovery and engagement
 funding: MSU Denver
 pi: Dr. Daniel Pittman
 role: Project Director & Faculty Mentor
+period: June 2024 - Present
+links:
+  - text: Visit Roadrunner Connect
+    url: https://roadrunnerconnect.co
+app_store_url: https://apps.apple.com/us/app/msu-denver-roadrunner-connect/id6633438909
+google_play_url: https://play.google.com/store/apps/details?id=edu.msudenver.roadrunnerconnect
 ---
 
 ## About the Project
 
-Roadrunner Connect is a mobile and web application that enhances community engagement at Metropolitan State University of Denver. What makes this project unique is that it is **built by students, for students** - demonstrating the C3 Lab's commitment to involving students in production software development that serves real users.
+Roadrunner Connect is MSU Denver's all-in-one mobile and web platform that transforms how students, faculty, staff, and visitors engage with campus life. Built by students, for the community, it unifies event discovery across the university — from academic seminars to athletic games and cultural festivals — into one intuitive, map-driven experience.
 
-## Project Vision
+Whether you're looking to find a food truck on Tivoli Quad, attend a guest lecture, or cheer at a Roadrunners game, Roadrunner Connect makes it fun, easy, and rewarding.
 
-The application serves as a central hub for MSU Denver's campus community, providing:
+## Strategic Alignment with MSU Denver 2030
 
-- Event discovery and engagement tools
-- Campus resource access
-- Community connection features
-- Student organization support
+Roadrunner Connect directly supports **Pillar III of the MSU Denver 2030 Strategic Plan**: *"Serve as an anchor institution by engaging with and contributing to the Denver community."*
 
-## Educational Philosophy
+By connecting students with on-campus opportunities and fostering meaningful engagement, the app strengthens MSU Denver's role as a hub of culture, learning, and connection — helping cultivate a vibrant and inclusive campus experience.
 
-Roadrunner Connect embodies the C3 Lab's educational mission:
+## Key Features
 
-### Learning by Building
-Students work on production software systems that serve real users, gaining experience that goes beyond classroom exercises.
+### Map-Based Discovery
+Browse events across MSU Denver using a live, interactive campus map. Filter events by time, location, or category (e.g., Arts, Academics, Athletics, Culture).
 
-### Full-Stack Experience
-Team members contribute across the entire application stack, from mobile development to backend services.
+### Integrated Calendar
+Pulls real-time event data from Trumba, Roadrunner Athletics, and RoadrunnerLink to offer a comprehensive schedule of happenings.
 
-### Real-World Constraints
-Working on a live application teaches students about maintenance, user feedback, and iterative development.
+### Event Check-Ins
+Geographically check in at events and leave comments or post photos to share your experience.
+
+### Feather Rewards System
+Earn points ("feathers") for attending events and participating in campus life. Unlock badges, trophies, and levels as you go.
+
+### Contests & Giveaways
+Compete on leaderboards or win randomized rewards by attending featured events.
+
+### Personal Profiles
+Track your engagement, achievements, and progress over time. Coming soon: Add friends, compare progress, and build social connections.
+
+### Admin Tools
+Backend dashboard for managing giveaways, moderating user content, and adding/editing placemarks and events.
+
+## Get Involved. Get Rewarded.
+
+With Roadrunner Connect, every step across campus is a chance to explore, connect, and win. Whether you're discovering new communities, competing in challenges, or just keeping up with what's happening, this app makes campus engagement both meaningful and fun.
+
+## Project Team
+
+### Leadership
+
+**Dr. Daniel (Dan) Pittman**
+- Project Director | Associate Professor of Computer Sciences
+- MSU Denver
+- June 2024 - Present
+
+**Meredith L. Jeffers**
+- Executive Director of University Strategy | Office of University Strategy
+- MSU Denver
+- June 2024 - Present
+
+### Current Student Developers
+
+**Ethan Sroka**
+- Full Stack Developer
+- MSU Denver
+- June 2025 - Present
+
+### Past Student Contributors
+
+The project has benefited from contributions by numerous student developers:
+
+- **Carolanne (Cece) Housh** - Project Lead | Full Stack Developer
+- **Kade Shockey** - Project Lead | Full Stack Developer
+- **Vincent Cordova** - Full Stack Developer
+- **Whitney Haddad** - Full Stack Developer
+- **Shukria Gulzar** - Developer Intern (Summer 2024)
+- **Aidan Rose** - Developer Intern (Summer 2024)
+- **Kyle N. Zimmerman** - Full Stack Developer (Spring/Summer 2025)
 
 ## Technical Overview
 
 The project uses modern development practices and technologies:
 
-- **Mobile Development** - Native mobile applications
+- **Mobile Development** - Native mobile applications for iOS and Android
 - **Web Development** - Responsive web interfaces
 - **Backend Services** - API development and integration
 - **Database Management** - Data modeling and optimization
 - **DevOps Practices** - Deployment and maintenance
+- **Map Integration** - Custom campus map for event discovery
+- **Real-time Data** - Integration with Trumba, Athletics, and RoadrunnerLink
 
-## Student Involvement
+## Student Learning Experience
 
 Students participating in Roadrunner Connect gain experience in:
 
@@ -54,14 +108,14 @@ Students participating in Roadrunner Connect gain experience in:
 - Agile project management
 - Code review and collaboration
 
-## Community Impact
+### Learning by Building
+Students work on production software systems that serve real users, gaining experience that goes beyond classroom exercises.
 
-Roadrunner Connect strengthens the MSU Denver community by:
+### Full-Stack Experience
+Team members contribute across the entire application stack, from mobile development to backend services.
 
-- Making campus events and resources more discoverable
-- Connecting students with campus organizations
-- Supporting student engagement and retention
-- Building a sense of campus community
+### Real-World Constraints
+Working on a live application teaches students about maintenance, user feedback, and iterative development.
 
 ## Relationship to C3 Lab
 
@@ -74,4 +128,4 @@ As a C3 Lab initiative, Roadrunner Connect demonstrates our core principles:
 
 ---
 
-Interested in joining the Roadrunner Connect team? Contact Dr. Daniel Pittman to learn about current opportunities.
+Interested in joining the Roadrunner Connect team? Contact Dr. Daniel Pittman at [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu) to learn about current opportunities.

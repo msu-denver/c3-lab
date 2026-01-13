@@ -17,7 +17,7 @@ permalink: /team/
     <img src="{{ '/assets/images/rajan.jpg' | relative_url }}" alt="Dr. Ranjidha Rajan" class="team-photo">
     <h2 class="team-name">Dr. Ranjidha Rajan</h2>
     <p class="team-role">Co-Director, C3 Lab</p>
-    <p class="team-title">Associate Professor, Department of Computer Sciences</p>
+    <p class="team-title">Assistant Professor, Department of Computer Sciences</p>
   </div>
 </div>
 
@@ -39,13 +39,13 @@ His eighteen-year industry career as a software engineer and architect informs h
 ### Current Projects
 
 **Principal Investigator:**
-- [Colorado Sustainability Hub](/projects/sustainability-hub/) - NSF CISE-MSI Award ($1,202,085)
+- [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) - NSF CISE-MSI Award ($1,202,085)
 
 **Co-Principal Investigator:**
-- [RILE Connect](/projects/rile-connect/) - SIPA GovGrants ($495,922)
+- [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}) - SIPA GovGrants ($495,922)
 
 **Project Director & Faculty Mentor:**
-- [Roadrunner Connect](/projects/roadrunner-connect/) - MSU Denver Campus Engagement Platform
+- [Roadrunner Connect]({{ '/projects/roadrunner-connect/' | relative_url }}) - MSU Denver Campus Engagement Platform
 
 ### Research Vision
 
@@ -55,6 +55,10 @@ Dr. Pittman's research explores how intelligent systems can support evidence-inf
 - Creating frameworks for evaluating large language models in domain-specific settings
 - Building cloud-based platforms for education and community ecosystems
 - Designing user-centered applications that support public access to information
+
+### Contact
+
+Interested in research opportunities or collaborations? Contact Dr. Pittman at [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu).
 
 ---
 
@@ -72,7 +76,7 @@ Dr. Rajan's research focuses on advancing **AI for Good**, **civic technology**,
 ### Current Projects
 
 **Principal Investigator & Project Director:**
-- [RILE Connect](/projects/rile-connect/) - SIPA GovGrants ($495,922)
+- [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}) - SIPA GovGrants ($495,922)
 
 ### Additional Research Initiatives
 
@@ -95,4 +99,6 @@ Interested in research opportunities or collaborations? Contact Dr. Rajan at [rr
 
 The C3 Lab welcomes students from Computer Science, Data Science and Machine Learning, and Computer Security programs who are interested in applied research with community impact. Students work on production software systems, contribute to federal and state-funded research, and help build platforms that directly benefit Colorado communities.
 
-Contact either co-director to learn about current opportunities.
+**Interested in joining?** Complete our [Student Interest Form](https://forms.office.com/r/6wgNT9HscW) to express your interest in the lab!
+
+You can also contact either co-director directly to learn about current opportunities.

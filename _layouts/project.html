@@ -28,9 +28,15 @@ layout: default
       </div>
       {% endif %}
       {% if page.copi %}
-      <div class="meta-item">
-        <span class="meta-label">Co-Principal Investigator:</span>
-        <span class="meta-value">{{ page.copi }}</span>
+      <div class="meta-item meta-item-copi">
+        <span class="meta-label">Co-Principal Investigator{% if page.copi.size > 1 %}s{% endif %}:</span>
+        <span class="meta-value">
+          {% if page.copi.first %}
+            {% for person in page.copi %}{{ person }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+          {% else %}
+            {{ page.copi }}
+          {% endif %}
+        </span>
       </div>
       {% endif %}
     </div>
@@ -40,6 +46,21 @@ layout: default
       {% for link in page.links %}
       <a href="{{ link.url }}" class="project-link" target="_blank" rel="noopener">{{ link.text }}</a>
       {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.app_store_url or page.google_play_url %}
+    <div class="app-store-badges">
+      {% if page.app_store_url %}
+      <a href="{{ page.app_store_url }}" target="_blank" rel="noopener" class="app-badge app-badge-ios">
+        <img src="{{ '/assets/images/app-store-badge.svg' | relative_url }}" alt="Download on the App Store">
+      </a>
+      {% endif %}
+      {% if page.google_play_url %}
+      <a href="{{ page.google_play_url }}" target="_blank" rel="noopener" class="app-badge app-badge-android">
+        <img src="{{ '/assets/images/google-play-badge.png' | relative_url }}" alt="Get it on Google Play">
+      </a>
+      {% endif %}
     </div>
     {% endif %}
   </header>

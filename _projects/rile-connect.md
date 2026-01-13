@@ -1,75 +1,114 @@
 ---
 title: RILE Connect
-tagline: A statewide STEM mentorship and opportunity-matching platform connecting Colorado's education ecosystem
+tagline: A statewide, open-source digital platform making Colorado's STEM ecosystem visible, navigable, and accessible
 funding: SIPA GovGrants
 amount: $495,922
 pi: Dr. Ranjidha Rajan
-copi: Dr. Daniel Pittman
-period: Spring 2026 - ongoing
+copi:
+  - Dr. Daniel Pittman
+  - Dr. Janelle Johnson
+period: January 2026 - December 2027
+links:
+  - text: SIPA GovGrants Program
+    url: https://sipa.colorado.gov/govgrants
 ---
 
 ## About the Project
 
-RILE Connect is an innovative digital ecosystem initiative funded by the Colorado Statewide Internet Portal Authority (SIPA). This project builds a statewide, publicly accessible STEM collaboration platform designed to connect K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado.
+RILE Connect is a statewide, open-source digital platform initiative designed to make the Colorado STEM ecosystem visible, navigable, and accessible. With grant support now awarded, the project is entering its initial implementation phase, focused on building shared digital infrastructure that will enable learners, educators, and partner organizations to discover opportunities and coordinate across sectors.
 
-The system strengthens access to opportunities, mentoring networks, internships, and high-impact learning experiences, providing a rich ecosystem for student success and equity-focused workforce development.
+## Why Now?
 
-## Project Goals
+Colorado is actively investing in digital transformation to modernize how public services, education, and workforce systems serve residents. As demand for STEM talent accelerates, educators and students are navigating rapid changes in technology, workforce expectations, and access to opportunity.
 
-RILE Connect advances:
+Beginning the digital transformation of the STEM ecosystem at this moment ensures that innovation is not limited to a few institutions or urban centers but connected through a shared statewide network that includes rural, frontier, and community-based organizations.
 
-- **Data Democracy** - Making STEM opportunity information accessible to all
-- **Network Transparency** - Visualizing partnership networks across the state
-- **STEM Accessibility** - Enabling stakeholders to discover collaboration pathways
-- **Regional Collaboration** - Supporting co-defined regional projects
+RILE Connect responds to this moment by initiating the development of a transparent, public-facing digital platform that will strengthen classroom-to-career pathways and ensure geography is no longer a barrier to participation in Colorado's STEM future.
 
-## Platform Features
+## Beyond Higher Education
 
-The RILE Connect platform enables stakeholders to:
+While RILE Connect is housed at Metropolitan State University of Denver, it is **not limited to higher education**. RILE Connect is intentionally designed as a lifelong STEM pathway platform, supporting learners and educators across career stages.
 
-- Discover collaboration pathways across Colorado's STEM ecosystem
-- Visualize partnership networks between organizations
-- Match mentors with mentees based on interests and goals
-- Find internship and learning opportunities
-- Engage in co-defined regional projects
+### Long-term Beneficiaries
 
-## Technical Architecture
+- **K-12 students and educators** discovering STEM programs, mentors, and classroom-connected opportunities
+- **Postsecondary students** accessing research, internships, and workforce-aligned learning experiences
+- **Educators** seeking professional development, collaborators, and industry connections
+- **Industry and workforce partners** connecting with future talent and education partners
+- **Community organizations and nonprofits** expanding reach and collaboration
 
-Dr. Pittman leads technical architecture and platform development, while Dr. Rajan directs ecosystem analytics and project management. Key technical areas include:
+## SIPA Grant Impact
 
-- Web and mobile application development
-- Cloud infrastructure and API integration
-- Data-driven matching workflows
-- Network visualization systems
-- Recommendation system development
+Receiving grant support from the Colorado Statewide Internet Portal Authority (SIPA) enables RILE Connect to move from planning and coordination into active development as a statewide, public-facing digital service.
 
-## Student Involvement Areas
+With this grant, RILE Connect will be developed for statewide availability, serving communities across Colorado. While initial implementation focuses on Colorado, the platform is intentionally designed to scale and replicate, allowing other regions to adopt and adapt the system over time. Its open-source architecture supports long-term sustainability and positions RILE Connect for potential use beyond Colorado.
 
-Students who join this project gain experience in:
+## Project Leadership
 
-- **Web and Mobile Application Development** - Building the platform interface
-- **Database Design and Optimization** - Managing data infrastructure
-- **Network Visualization** - Creating interactive partnership maps
-- **User Experience Design** - UI/UX prototyping and testing
-- **Data Dashboards** - Building ecosystem insight tools
-- **Community Partner Mapping** - Analyzing network relationships
-- **Recommendation Systems** - Developing matching algorithms
+### Faculty Leadership
 
-## Impact
+**Principal Investigator:**
+- Dr. Ranjidha Rajan, Assistant Professor of Computer Science
 
-RILE Connect directly impacts Colorado's statewide STEM pipeline by:
+**Co-Principal Investigators:**
+- Dr. Daniel Pittman, Associate Professor of Computer Science
+- Dr. Janelle Johnson, Professor in STEM Education
 
-- Connecting underserved communities with STEM opportunities
-- Strengthening mentorship networks across education levels
-- Supporting equity-focused workforce development
-- Building sustainable partnerships between education and industry
+### Project Team
+
+- **Undergraduate students** engaged in paid research and development roles (web, mobile, data, AI)
+- **Educators and ecosystem partners** contributing to requirements, feedback, and opportunities
+- **Industry and nonprofit collaborators** supporting mentorship and workforce alignment
+
+Students are not just users—they are **co-builders**, gaining hands-on experience in civic technology, cloud systems, and applied AI while contributing to a platform designed to serve the public good.
+
+## Design Principles
+
+RILE Connect is guided from the outset by five core design principles that shape how the platform will be built and how it is intended to serve communities across Colorado:
+
+1. **Transparency** - Open, visible systems and decision-making
+2. **Trust** - Building confidence through reliable, secure infrastructure
+3. **Accessibility** - Ensuring all users can participate regardless of ability or location
+4. **Participation** - Enabling active engagement from all stakeholders
+5. **Replicability** - Open-source, modular design that can be adapted by other regions
 
 ## Project Timeline
 
-- **Award Date:** November 7, 2025
-- **Project Start:** Spring 2026
-- **Development Phase:** Ongoing
+**Grant Duration:** 24 months (January 2026 - December 2027)
 
-## Get Involved
+### Year 1: Foundation
+- Web platform development
+- Core infrastructure and data systems
+- Initial partner onboarding
+
+### Year 2: Expansion
+- Mobile application development
+- Statewide outreach and adoption
+- Training and capacity building
+- Sustainability planning
+
+## Student Involvement
+
+Students participating in RILE Connect gain experience in:
+
+- **Web and Mobile Application Development** - Building the platform interface
+- **Cloud Infrastructure** - Working with modern cloud systems
+- **Database Design and Optimization** - Managing data infrastructure
+- **Network Visualization** - Creating interactive partnership maps
+- **User Experience Design** - UI/UX prototyping and testing
+- **Applied AI** - Building recommendation and matching systems
+- **Civic Technology** - Understanding how technology serves public good
+
+## Impact
+
+RILE Connect prioritizes making STEM opportunities visible and easier to navigate while reducing geographic and institutional barriers through an inclusive, user-centered digital system. The platform will:
+
+- Connect underserved communities with STEM opportunities
+- Strengthen mentorship networks across education levels
+- Support equity-focused workforce development
+- Build sustainable partnerships between education and industry
+- Enable rural, frontier, and community-based organizations to participate in Colorado's STEM future
+
+---
 
 Interested in contributing to RILE Connect? Contact Dr. Ranjidha Rajan at [rranjidh@msudenver.edu](mailto:rranjidh@msudenver.edu) for more information about research opportunities.
