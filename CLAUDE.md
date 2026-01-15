@@ -147,10 +147,61 @@ The site automatically deploys to GitHub Pages when changes are pushed to the `m
 
 ## Team Access
 
-The `c3-lab` team in the `msu-denver` organization has admin access to this repository:
+Repository access is managed via the `c3-lab` team in the `msu-denver` GitHub organization. See `.claude/team-notes.md` (local, gitignored) for specific team members.
 
-- daniel-pittman (Dr. Daniel Pittman)
-- ranjidha (Dr. Ranjidha Rajan)
+## Content Consistency
+
+Content appears in multiple locations. When updating, check ALL locations:
+
+### Project Information
+| Content | Locations |
+|---------|-----------|
+| Project titles & descriptions | `index.html` (homepage cards), `_projects/*.md` (detail pages), `projects/index.html` |
+| Funding/award info | `_projects/*.md` front matter |
+| Team members | `team.md`, `index.html` (Lab Directors section) |
+
+### Director Information
+- **Homepage**: `index.html` - abbreviated bios in Lab Directors section
+- **Team page**: `team.md` - full bios with contact info
+- **Footer**: `_includes/footer.html` - department link only
+
+### When Adding/Updating Projects
+1. Update the project file in `_projects/`
+2. Check if homepage card in `index.html` needs updating
+3. Verify `projects/index.html` if it has custom content
+
+## Accessibility Requirements
+
+The site follows WCAG AA standards. Maintain these when making changes:
+
+### Color Contrast (minimum 4.5:1)
+| Element | Colors | Ratio |
+|---------|--------|-------|
+| Body text | Gray #374151 on white | 7.5:1 ✓ |
+| Links/nav | Red #A01C30 on white | 7.77:1 ✓ |
+| Buttons | White on red #A01C30 | 7.77:1 ✓ |
+| Hero text | White on blue #002E5D | 13.56:1 ✓ |
+| Bili button | White on green #1b5e20 | 7.87:1 ✓ |
+
+### Required Accessibility Features
+- **Skip link**: Present in `_layouts/default.html` - don't remove
+- **Focus states**: Defined in `style.css` - 3px red outline on interactive elements
+- **Alt text**: All images must have descriptive alt text
+- **Heading hierarchy**: Use proper H1→H2→H3 order, no skipped levels
+- **Link text**: All links must have meaningful text (not "click here")
+
+### Testing Accessibility
+- Tab through pages to verify focus visibility
+- Check color contrast for any new colors: https://webaim.org/resources/contrastchecker/
+- Verify images have alt text
+
+## Mobile Responsiveness
+
+The site has mobile-specific styles at the end of `style.css`. When adding new components:
+
+- Test at 576px breakpoint (mobile)
+- Test at 768px breakpoint (tablet)
+- Ensure buttons/links are easily tappable (min 44px touch target)
 
 ## Common Tasks
 
