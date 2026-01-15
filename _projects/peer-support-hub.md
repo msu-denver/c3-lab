@@ -60,6 +60,24 @@ Applications route through programs based on configured eligibility rules and re
 - Pilot testing with program staff using real applications
 - Peer Support Hub becomes available for SI, TA, and LA applications
 
+## Project Leadership
+
+### Faculty Leadership
+
+**Principal Investigator:**
+- [Dr. Daniel Pittman](https://www.linkedin.com/in/danpittman1/), Associate Professor of Computer Science
+
+**Co-Principal Investigator:**
+- [Dr. Ranjidha Rajan](https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/), Assistant Professor of Computer Science
+
+### Project Team
+
+- **Undergraduate students** engaged in paid research and development roles
+- **SI, TA, and LA program coordinators** contributing to requirements, workflows, and testing
+- **Faculty stakeholders** providing feedback on the application experience
+
+Students are not just building software—they are **co-designers** of a platform that will directly serve their peers and faculty across the university.
+
 ## Student Involvement
 
 The Peer Support Hub creates opportunities for hands-on learning in areas including:

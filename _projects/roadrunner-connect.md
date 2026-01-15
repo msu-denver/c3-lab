@@ -56,12 +56,12 @@ With Roadrunner Connect, every step across campus is a chance to explore, connec
 
 ### Leadership
 
-**Dr. Daniel (Dan) Pittman**
+**[Dr. Daniel (Dan) Pittman](https://www.linkedin.com/in/danpittman1/)**
 - Project Director \| Associate Professor of Computer Sciences
 - MSU Denver
 - June 2024 - Present
 
-**Meredith L. Jeffers**
+**[Meredith L. Jeffers](https://www.linkedin.com/in/meredith-lyn-jeffers/)**
 - Executive Director of University Strategy \| Office of University Strategy
 - MSU Denver
 - June 2024 - Present

@@ -48,11 +48,11 @@ With this grant, RILE Connect will be developed for statewide availability, serv
 ### Faculty Leadership
 
 **Principal Investigator:**
-- Dr. Ranjidha Rajan, Assistant Professor of Computer Science
+- [Dr. Ranjidha Rajan](https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/), Assistant Professor of Computer Science
 
 **Co-Principal Investigators:**
-- Dr. Daniel Pittman, Associate Professor of Computer Science
-- Dr. Janelle Johnson, Professor in STEM Education
+- [Dr. Daniel Pittman](https://www.linkedin.com/in/danpittman1/), Associate Professor of Computer Science
+- [Dr. Janelle Johnson](https://www.linkedin.com/in/janelle-m-johnson-4406845/), Professor in STEM Education
 
 ### Project Team
 

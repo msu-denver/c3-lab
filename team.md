@@ -8,14 +8,14 @@ permalink: /team/
 <div class="team-grid">
   <div class="team-member">
     <img src="{{ '/assets/images/pittman.jpg' | relative_url }}" alt="Dr. Daniel Pittman" class="team-photo">
-    <h2 class="team-name">Dr. Daniel Pittman</h2>
+    <h2 class="team-name"><a href="https://www.linkedin.com/in/danpittman1/">Dr. Daniel Pittman</a></h2>
     <p class="team-role">Co-Director, C3 Lab</p>
     <p class="team-title">Associate Professor, Department of Computer Sciences</p>
   </div>
 
   <div class="team-member">
     <img src="{{ '/assets/images/rajan.jpg' | relative_url }}" alt="Dr. Ranjidha Rajan" class="team-photo">
-    <h2 class="team-name">Dr. Ranjidha Rajan</h2>
+    <h2 class="team-name"><a href="https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/">Dr. Ranjidha Rajan</a></h2>
     <p class="team-role">Co-Director, C3 Lab</p>
     <p class="team-title">Assistant Professor, Department of Computer Sciences</p>
   </div>
@@ -23,7 +23,7 @@ permalink: /team/
 
 ---
 
-## Dr. Daniel Pittman
+## [Dr. Daniel Pittman](https://www.linkedin.com/in/danpittman1/)
 
 Dr. Pittman leads research at the intersection of **Data Science**, **Machine Learning**, **Large Language Models**, and **Human-Computer Interaction**. His work spans statewide data platforms, natural language interfaces, and production mobile and web applications that serve educational, civic, and sustainability-focused communities.
 
@@ -63,7 +63,7 @@ Interested in research opportunities or collaborations? Contact Dr. Pittman at [
 
 ---
 
-## Dr. Ranjidha Rajan
+## [Dr. Ranjidha Rajan](https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/)
 
 Dr. Rajan's research focuses on advancing **AI for Good**, **civic technology**, and **human-centered computing** to strengthen how communities learn, collaborate, and access opportunities. Her work integrates AI-augmented inquiry-based learning, data visualization, learning analytics, and network science to design tools that democratize data, improve educational equity, and support public-benefit ecosystems.
 

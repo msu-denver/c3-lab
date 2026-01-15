@@ -4,6 +4,7 @@ tagline: A statewide sustainability-data platform integrating AI, geospatial sys
 funding: NSF CISE-MSI + NAIRR Pilot
 amount: $1,268,963
 pi: Dr. Daniel Pittman
+pm: Alyssa Williams
 copi:
   - name: Dr. Kerstin Haring
     affiliation: University of Denver
@@ -87,37 +88,37 @@ The Sustainability Hub is a collaborative effort across five Colorado universiti
 ### Metropolitan State University of Denver (Lead Institution)
 
 **Principal Investigator:**
-- **Dr. Daniel Pittman**, Associate Professor of Computer Science - Overall project coordination, NLP/ML development, knowledge graph generation
+- **[Dr. Daniel Pittman](https://www.linkedin.com/in/danpittman1/)**, Associate Professor of Computer Science - Overall project coordination, NLP/ML development, knowledge graph generation
 
 **Project Staff:**
-- **Alyssa Williams** - Project Manager
+- **[Alyssa Williams](https://www.linkedin.com/in/chillyssa/)** - Project Manager
 
 ### University of Denver
 
 **Co-Principal Investigator:**
-- **Dr. Kerstin Haring** - User-Centered Design, Human-Computer Interaction, natural language search interfaces
+- **[Dr. Kerstin Haring](https://ritchieschool.du.edu/about/people/kerstin-sophie-haring)** - User-Centered Design, Human-Computer Interaction, natural language search interfaces
 
 ### University of Northern Colorado
 
 **Co-Principal Investigator:**
-- **Dr. Jessica Salo** - Data Democratization, geospatial data discovery and integration, GIS expertise
+- **[Dr. Jessica Salo](https://www.linkedin.com/in/jessicasalo/)** - Data Democratization, geospatial data discovery and integration, GIS expertise
 
 ### Colorado State University Fort Collins
 
 **Co-Principal Investigator:**
-- **Dr. Gregory Newman** - Community Engagement lead, citizen science, web platform development
+- **[Dr. Gregory Newman](https://www.linkedin.com/in/greg-newman-bb16424/)** - Community Engagement lead, citizen science, web platform development
 
 **Senior Personnel:**
-- **Dr. Alexis Kennedy** - Public policy and administration, stakeholder outreach
-- **Dr. Sarah Newman** - Research support and coordination
-- **Dr. Elicia Ratajczyk** - Environmental social science, complex adaptive systems
-- **Dr. Jennifer Cross** - Team science coaching, collaborative session facilitation
-- **Dr. Matthew Hitt** - Social science methods, evaluation planning, community engagement strategy
+- **[Dr. Alexis Kennedy](https://www.linkedin.com/in/alexisrkennedy/)** - Public policy and administration, stakeholder outreach
+- **[Dr. Sarah Newman](https://www.linkedin.com/in/sarah-newman/)** - Research support and coordination
+- **[Dr. Elicia Ratajczyk](https://www.linkedin.com/in/elicia-ratajczyk/)** - Environmental social science, complex adaptive systems
+- **[Dr. Jennifer Cross](https://www.linkedin.com/in/jeni-cross-25b93112/)** - Team science coaching, collaborative session facilitation
+- **[Dr. Matthew Hitt](https://www.linkedin.com/in/matthew-hitt-7b678a22/)** - Social science methods, evaluation planning, community engagement strategy
 
 ### Colorado State University Pueblo
 
 **Co-Principal Investigator:**
-- **Dr. Sylvester Kalevela** - Southern Colorado community engagement and outreach
+- **[Dr. Sylvester Kalevela](https://www.linkedin.com/in/sylvester-a-kalevela-11950224/)** - Southern Colorado community engagement and outreach
 
 ## Community Engagement
 
