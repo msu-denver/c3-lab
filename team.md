@@ -40,6 +40,7 @@ His eighteen-year industry career as a software engineer and architect informs h
 
 **Principal Investigator:**
 - [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) - NSF CISE-MSI Award ($1,202,085)
+- [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}) - MSU Denver
 
 **Co-Principal Investigator:**
 - [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}) - SIPA GovGrants ($495,922)
@@ -77,6 +78,9 @@ Dr. Rajan's research focuses on advancing **AI for Good**, **civic technology**,
 
 **Principal Investigator & Project Director:**
 - [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}) - SIPA GovGrants ($495,922)
+
+**Co-Principal Investigator:**
+- [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}) - MSU Denver
 
 ### Additional Research Initiatives
 

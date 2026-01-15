@@ -3,6 +3,7 @@ title: Roadrunner Connect
 tagline: MSU Denver's all-in-one platform for campus event discovery and engagement
 funding: MSU Denver
 pi: Dr. Daniel Pittman
+copi: Dr. Meredith L. Jeffers
 role: Project Director & Faculty Mentor
 period: June 2024 - Present
 links:
@@ -56,12 +57,12 @@ With Roadrunner Connect, every step across campus is a chance to explore, connec
 ### Leadership
 
 **Dr. Daniel (Dan) Pittman**
-- Project Director | Associate Professor of Computer Sciences
+- Project Director \| Associate Professor of Computer Sciences
 - MSU Denver
 - June 2024 - Present
 
 **Meredith L. Jeffers**
-- Executive Director of University Strategy | Office of University Strategy
+- Executive Director of University Strategy \| Office of University Strategy
 - MSU Denver
 - June 2024 - Present
 
@@ -76,8 +77,8 @@ With Roadrunner Connect, every step across campus is a chance to explore, connec
 
 The project has benefited from contributions by numerous student developers:
 
-- **Carolanne (Cece) Housh** - Project Lead | Full Stack Developer
-- **Kade Shockey** - Project Lead | Full Stack Developer
+- **Carolanne (Cece) Housh** - Project Lead \| Full Stack Developer
+- **Kade Shockey** - Project Lead \| Full Stack Developer
 - **Vincent Cordova** - Full Stack Developer
 - **Whitney Haddad** - Full Stack Developer
 - **Shukria Gulzar** - Developer Intern (Summer 2024)

@@ -15,24 +15,31 @@ layout: default
         <span class="meta-value">{{ page.funding }}</span>
       </div>
       {% endif %}
-      {% if page.amount %}
-      <div class="meta-item">
-        <span class="meta-label">Award Amount:</span>
-        <span class="meta-value">{{ page.amount }}</span>
-      </div>
-      {% endif %}
       {% if page.pi %}
       <div class="meta-item">
         <span class="meta-label">Principal Investigator:</span>
         <span class="meta-value">{{ page.pi }}</span>
       </div>
       {% endif %}
+      {% if page.amount %}
+      <div class="meta-item">
+        <span class="meta-label">Award Amount:</span>
+        <span class="meta-value">{{ page.amount }}</span>
+      </div>
+      {% endif %}
       {% if page.copi %}
-      <div class="meta-item meta-item-copi">
+      <div class="meta-item">
         <span class="meta-label">Co-Principal Investigator{% if page.copi.size > 1 %}s{% endif %}:</span>
         <span class="meta-value">
           {% if page.copi.first %}
-            {% for person in page.copi %}{{ person }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+            {% for person in page.copi %}
+              {% if person.name %}
+                <span class="copi-entry"><span class="copi-name">{{ person.name }}</span><span class="copi-affiliation">{{ person.affiliation }}</span></span>
+              {% else %}
+                {{ person }}
+              {% endif %}
+              {% unless forloop.last %}<br>{% endunless %}
+            {% endfor %}
           {% else %}
             {{ page.copi }}
           {% endif %}

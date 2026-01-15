@@ -600,8 +600,8 @@ img {
 
 .project-meta {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: var(--spacing-md);
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-lg);
   margin: var(--spacing-xl) 0;
   padding: var(--spacing-lg);
   background: var(--color-gray-50);
@@ -612,12 +612,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-xs);
-}
-
-.meta-item-copi {
-  grid-column: 1 / -1;
-  justify-self: center;
-  text-align: center;
+  text-align: left;
 }
 
 .meta-label {
@@ -631,6 +626,26 @@ img {
 .meta-value {
   color: var(--color-gray-900);
   font-weight: 500;
+}
+
+.copi-entry {
+  display: block;
+  margin-bottom: var(--spacing-sm);
+}
+
+.copi-entry:last-child {
+  margin-bottom: 0;
+}
+
+.copi-name {
+  display: block;
+}
+
+.copi-affiliation {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--color-gray-500);
+  font-weight: 400;
 }
 
 .project-links {
@@ -890,6 +905,10 @@ img {
     grid-template-columns: 1fr;
     gap: var(--spacing-lg);
     padding: var(--spacing-md);
+  }
+
+  .project-meta {
+    grid-template-columns: 1fr;
   }
 
   .meta-item-copi {

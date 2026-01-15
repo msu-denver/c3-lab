@@ -5,10 +5,14 @@ funding: NSF CISE-MSI + NAIRR Pilot
 amount: $1,268,963
 pi: Dr. Daniel Pittman
 copi:
-  - Dr. Kerstin Haring (University of Denver)
-  - Dr. Jessica Salo (University of Northern Colorado)
-  - Dr. Gregory Newman (Colorado State University)
-  - Dr. Sylvester Kalevela (CSU Pueblo)
+  - name: Dr. Kerstin Haring
+    affiliation: University of Denver
+  - name: Dr. Jessica Salo
+    affiliation: University of Northern Colorado
+  - name: Dr. Gregory Newman
+    affiliation: Colorado State University
+  - name: Dr. Sylvester Kalevela
+    affiliation: CSU Pueblo
 period: October 2023 - September 2026
 links:
   - text: Visit Sustainability Hub

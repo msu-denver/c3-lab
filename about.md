@@ -24,7 +24,7 @@ Our work spans several interconnected domains:
 
 ## Current Initiatives
 
-The lab's research portfolio includes three major initiatives:
+The lab's research portfolio includes four major initiatives:
 
 ### Colorado Sustainability Hub
 A statewide sustainability-data platform funded by the National Science Foundation, integrating AI, geospatial systems, and natural language interaction to make Colorado's environmental data accessible to all.
@@ -34,6 +34,9 @@ A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher 
 
 ### Roadrunner Connect
 A student-built mobile and web application that enhances community engagement at MSU Denver, demonstrating our commitment to involving students in production software development.
+
+### Peer Support Hub
+A unified platform for coordinating SI, TA, and LA peer support programs at MSU Denver, streamlining faculty applications and improving equitable distribution of peer support resources across departments.
 
 ## Student Opportunities
 
