@@ -15,7 +15,7 @@ links:
 
 ## About the Project
 
-RILE Connect is a statewide, open-source digital platform initiative designed to make the Colorado STEM ecosystem visible, navigable, and accessible. With grant support now awarded, the project is entering its initial implementation phase, focused on building shared digital infrastructure that will enable learners, educators, and partner organizations to discover opportunities and coordinate across sectors.
+RILE Connect — the **Reciprocal Integrated Learning Ecosystem** — is a statewide, open-source digital platform initiative designed to make the Colorado STEM ecosystem visible, navigable, and accessible. With grant support now awarded, the project is entering its initial implementation phase, focused on building shared digital infrastructure that will enable learners, educators, and partner organizations to discover opportunities and coordinate across sectors.
 
 ## Why Now?
 
