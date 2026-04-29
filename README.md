@@ -15,7 +15,7 @@ The C3 Lab is a research lab in the Department of Computer Sciences at MSU Denve
 
 ## Website
 
-Visit the live site at: [msu-denver.github.io/c3-lab](https://msu-denver.github.io/c3-lab/)
+Visit the live site at: [c3-lab.org](https://c3-lab.org/)
 
 ### Site Features
 
@@ -38,7 +38,7 @@ bundle install
 ./serve.sh
 ```
 
-The site will be available at `http://localhost:4000/c3-lab/`
+The site will be available at `http://localhost:4000/`
 
 ### Prerequisites
 

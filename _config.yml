@@ -5,8 +5,8 @@ title: "C3 Lab"
 tagline: "Community-Centered Computing Lab"
 description: "A research lab in the Department of Computer Sciences at MSU Denver, designing and building technologies that support communities through accessible data systems, applied AI, and user-centered computing."
 
-url: "https://msu-denver.github.io"
-baseurl: "/c3-lab"
+url: "https://c3-lab.org"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -71,7 +71,7 @@ github_username: msu-denver
 # SEO settings
 author:
   name: "C3 Lab"
-  url: "https://msu-denver.github.io/c3-lab"
+  url: "https://c3-lab.org"
 twitter:
   card: summary
 social:
