@@ -4,7 +4,7 @@ This document provides information for developing and maintaining the C3 Lab web
 
 ## Project Overview
 
-The C3 Lab website is a Jekyll-based static site hosted on GitHub Pages at `msu-denver.github.io/c3-lab`. It showcases the Community-Centered Computing Lab, its directors, and research projects.
+The C3 Lab website is a Jekyll-based static site hosted on GitHub Pages at the custom domain `c3-lab.org`. It showcases the Community-Centered Computing Lab, its directors, and research projects.
 
 ## Technology Stack
 
@@ -64,7 +64,7 @@ chmod +x serve.sh
 ./serve.sh
 ```
 
-The site will be available at `http://localhost:4000/c3-lab/`
+The site will be available at `http://localhost:4000/`
 
 ### Manual Commands
 
@@ -76,7 +76,7 @@ bundle install
 bundle exec jekyll build
 
 # Serve with live reload
-bundle exec jekyll serve --livereload --baseurl "/c3-lab"
+bundle exec jekyll serve --livereload
 ```
 
 ## Content Updates
@@ -142,7 +142,7 @@ The site automatically deploys to GitHub Pages when changes are pushed to the `m
 
 ### Deployment URL
 
-- **Live Site**: https://msu-denver.github.io/c3-lab/
+- **Live Site**: https://c3-lab.org/
 - **Repository**: https://github.com/msu-denver/c3-lab
 
 ## Team Access
