@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/msu-denver/c3-lab/security/advisories/new
+    about: |
+      Please report security issues privately via GitHub's Private
+      Vulnerability Reporting. Do NOT open a public issue. See SECURITY.md
+      for full details.
+  - name: Contact the C3 Lab
+    url: https://c3-lab.org/team/
+    about: For non-issue inquiries about the lab or its research projects.
