@@ -1,0 +1,42 @@
+# Continuous integration — verify the Jekyll site builds cleanly on every PR
+# and on every push to a protected branch.
+#
+# This workflow does NOT publish the site. GitHub Pages runs its own build on
+# pushes to `main` (see the Pages settings); this workflow's only job is to
+# catch Liquid syntax errors, missing front matter, broken includes, and
+# similar regressions before they reach the deploy branch.
+#
+# The `jekyll-build` job name is referenced as a required status check in
+# branch protection for both `develop` and `main`. Renaming the job requires
+# updating those protection rules in lockstep.
+
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main, develop]
+
+permissions:
+  contents: read
+
+jobs:
+  jekyll-build:
+    name: jekyll-build
+    runs-on: ubuntu-latest
+    steps:
+      # SHA-pinned actions/checkout v4.2.2
+      - name: Check out the repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      # SHA-pinned ruby/setup-ruby v1.310.0. Bump by re-resolving the v1 tag:
+      #   gh api repos/ruby/setup-ruby/tags --jq '.[0]'
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@afeafc3d1ab54a631816aba4c914a0081c12ff2f # v1.310.0
+        with:
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build --strict_front_matter --trace
+        env:
+          JEKYLL_ENV: production

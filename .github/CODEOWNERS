@@ -1,0 +1,36 @@
+# CODEOWNERS — require c3-lab maintainer review on sensitive paths.
+#
+# When branch protection has "Require review from Code Owners" enabled, any PR
+# touching a path matched below must be approved by the listed owner before it
+# can merge.
+#
+# The @msu-denver/c3-lab team is a DIRECT admin collaborator on this
+# repository. CODEOWNERS only enforces when the listed entity has a direct
+# permission grant; org-inherited permissions silently fail to enforce.
+
+# Workflow and CI configuration — the most security-sensitive paths.
+/.github/                        @msu-denver/c3-lab
+
+# Site configuration, layouts, and shared includes — changes here affect every
+# page and are easy to regress on.
+/_config.yml                     @msu-denver/c3-lab
+/_layouts/                       @msu-denver/c3-lab
+/_includes/                      @msu-denver/c3-lab
+
+# Site styling — accessibility and MSU Denver brand compliance live here.
+/assets/css/                     @msu-denver/c3-lab
+
+# Project collection — research portfolio content that lab members rely on.
+/_projects/                      @msu-denver/c3-lab
+
+# Custom domain. A stray edit to CNAME can take the site offline.
+/CNAME                           @msu-denver/c3-lab
+
+# Build and dependency manifests.
+/Gemfile                         @msu-denver/c3-lab
+/Gemfile.lock                    @msu-denver/c3-lab
+
+# Project documentation and policy.
+/CLAUDE.md                       @msu-denver/c3-lab
+/CONTRIBUTING.md                 @msu-denver/c3-lab
+/SECURITY.md                     @msu-denver/c3-lab
