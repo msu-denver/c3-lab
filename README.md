@@ -1,5 +1,7 @@
 # C3 Lab - Community-Centered Computing Lab
 
+[![CI](https://github.com/msu-denver/c3-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/msu-denver/c3-lab/actions/workflows/ci.yml)
+
 The official website for the C3 Lab (Community-Centered Computing Lab) at Metropolitan State University of Denver.
 
 ## About the C3 Lab
@@ -65,7 +67,7 @@ c3-lab/
 
 ## Contributing
 
-This repository is maintained by the C3 Lab team. For questions about contributing, please contact the lab directors.
+This repository is maintained by the C3 Lab team. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the contributor guide and [`SECURITY.md`](SECURITY.md) for the vulnerability disclosure policy.
 
 ## License
 
