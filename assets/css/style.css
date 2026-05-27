@@ -418,7 +418,7 @@ img {
 }
 
 .project-card {
-  flex: 1 1 320px;
+  flex: 1 0 320px;
   max-width: 400px;
   background: var(--color-white);
   border-radius: 12px;
@@ -475,7 +475,7 @@ img {
 }
 
 .team-member {
-  flex: 1 1 320px;
+  flex: 1 0 320px;
   max-width: 360px;
   text-align: center;
 }
