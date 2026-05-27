@@ -108,7 +108,7 @@ Interested in research opportunities or collaborations? Contact Dr. Rajan at [rr
 
 ## [Alyssa Williams](https://www.linkedin.com/in/chillyssa/)
 
-Alyssa Williams is the **Technical Project Manager** for the C3 Lab, where she coordinates research operations across the lab's project portfolio, student researchers, and partner institutions. She joined the lab as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) and now leads program operations across the lab's active projects.
+Alyssa Williams is the **Technical Project Manager** for the C3 Lab, where she coordinates research operations across the lab's project portfolio, student researchers, and partner institutions. An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Technical Project Manager role in 2026 as the C3 Lab's portfolio expanded.
 
 Beyond program management, Alyssa is a regular research collaborator on the lab's scholarly output — co-author on the lab's [ACM COMPASS 2025](https://compass.acm.org/2025/) paper and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
 
