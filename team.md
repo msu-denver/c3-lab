@@ -108,15 +108,16 @@ Interested in research opportunities or collaborations? Contact Dr. Rajan at [rr
 
 ## [Alyssa Williams](https://www.linkedin.com/in/chillyssa/)
 
-Alyssa Williams is the **Technical Project Manager** for the C3 Lab, where she coordinates research operations across the lab's project portfolio, student researchers, and partner institutions. An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Technical Project Manager role in 2026 as the C3 Lab's portfolio expanded.
+Alyssa Williams is the **Technical Project Manager** for the C3 Lab. Her role blends project management — timelines, deliverables, sprint planning, and stakeholder communication — with hands-on **technical leadership**: code review and architectural guidance for student developers, AWS cloud infrastructure, API and data-integration work across the lab's projects, and QA / system testing across releases. She also leads the lab's onboarding for new student researchers (development environment setup, GitHub workflows, coding standards).
 
-Beyond program management, Alyssa is a regular research collaborator on the lab's scholarly output — co-author on the lab's [ACM COMPASS 2025](https://compass.acm.org/2025/) paper and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
+An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Technical Project Manager role in 2026 as the C3 Lab's portfolio expanded. She is also a research collaborator on the lab's scholarly output — co-author on the lab's [ACM COMPASS 2025](https://compass.acm.org/2025/) paper, and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
 
 ### Responsibilities
 
-- Research program operations across the lab's active projects: [Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}), [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}), [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}), and [Roadrunner Connect]({{ '/projects/roadrunner-connect/' | relative_url }}).
-- Student researcher coordination across MSU Denver and partner institutions (CSU Fort Collins, CSU Pueblo, University of Northern Colorado, University of Denver).
-- Community engagement for the Sustainability Hub, including listening sessions, stakeholder outreach, and the Hub's pilot with the Larimer County Department of Health and Environment.
+- **Technical leadership** — code review, architectural guidance, AWS cloud infrastructure, API and data integration across [Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}), [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}), and [Roadrunner Connect]({{ '/projects/roadrunner-connect/' | relative_url }}), plus QA and system testing.
+- **Project coordination** — timelines, deliverables, Agile workflow (sprint planning, backlog management, feature scoping), and reporting across all four active lab projects (Sustainability Hub, RILE Connect, [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}), Roadrunner Connect) spanning federal (NSF), state (SIPA), and institutional (MSU Denver) funding sources, in coordination with partner institutions at CSU Fort Collins, CSU Pueblo, University of Northern Colorado, and University of Denver.
+- **Student researcher mentoring** — onboarding (environment setup, GitHub workflows, coding standards), day-to-day technical guidance, and coordination across the lab's multi-cohort undergraduate and graduate research team.
+- **Community engagement** for the Sustainability Hub, including listening sessions, stakeholder outreach, and the Hub's pilot with the Larimer County Department of Health and Environment.
 
 ### Contact
 

@@ -411,12 +411,15 @@ img {
    Project Cards
    ============================================ */
 .projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: var(--spacing-xl);
 }
 
 .project-card {
+  flex: 1 0 320px;
+  max-width: 400px;
   background: var(--color-white);
   border-radius: 12px;
   padding: var(--spacing-xl);
@@ -465,12 +468,15 @@ img {
    Team Section
    ============================================ */
 .team-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: var(--spacing-2xl);
 }
 
 .team-member {
+  flex: 1 0 320px;
+  max-width: 360px;
   text-align: center;
 }
 
