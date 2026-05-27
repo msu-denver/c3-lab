@@ -81,6 +81,9 @@ Copyright (c) 2026 C3 Lab, Metropolitan State University of Denver. All rights r
 - **Dr. Daniel Pittman** - dpittma8@msudenver.edu
 - **Dr. Ranjidha Rajan** - rranjidh@msudenver.edu
 
+**Technical Project Manager:**
+- **Alyssa Williams** - awill157@msudenver.edu
+
 **Department of Computer Sciences:** [msudenver.edu/computer-sciences](https://www.msudenver.edu/computer-sciences/)
 
 **Interested in joining?** [Express Interest Form](https://forms.office.com/r/6wgNT9HscW)

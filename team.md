@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-subtitle: Meet the C3 Lab directors
+subtitle: Meet the C3 Lab team
 permalink: /team/
 ---
 
@@ -18,6 +18,13 @@ permalink: /team/
     <h2 class="team-name"><a href="https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/">Dr. Ranjidha Rajan</a></h2>
     <p class="team-role">Co-Director, C3 Lab</p>
     <p class="team-title">Assistant Professor, Department of Computer Sciences</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{ '/assets/images/williams.jpg' | relative_url }}" alt="Alyssa Williams" class="team-photo">
+    <h2 class="team-name"><a href="https://www.linkedin.com/in/chillyssa/">Alyssa Williams</a></h2>
+    <p class="team-role">Technical Project Manager, C3 Lab</p>
+    <p class="team-title">Department of Computer Sciences</p>
   </div>
 </div>
 
@@ -96,6 +103,24 @@ Exploring how generative AI can help students practice deeper, more meaningful q
 ### Contact
 
 Interested in research opportunities or collaborations? Contact Dr. Rajan at [rranjidh@msudenver.edu](mailto:rranjidh@msudenver.edu).
+
+---
+
+## [Alyssa Williams](https://www.linkedin.com/in/chillyssa/)
+
+Alyssa Williams is the **Technical Project Manager** for the C3 Lab, where she coordinates research operations across the lab's project portfolio, student researchers, and partner institutions. An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Technical Project Manager role in 2026 as the C3 Lab's portfolio expanded.
+
+Beyond program management, Alyssa is a regular research collaborator on the lab's scholarly output — co-author on the lab's [ACM COMPASS 2025](https://compass.acm.org/2025/) paper and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
+
+### Responsibilities
+
+- Research program operations across the lab's active projects: [Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}), [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}), [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}), and [Roadrunner Connect]({{ '/projects/roadrunner-connect/' | relative_url }}).
+- Student researcher coordination across MSU Denver and partner institutions (CSU Fort Collins, CSU Pueblo, University of Northern Colorado, University of Denver).
+- Community engagement for the Sustainability Hub, including listening sessions, stakeholder outreach, and the Hub's pilot with the Larimer County Department of Health and Environment.
+
+### Contact
+
+For questions about lab operations, student research opportunities, or project coordination: [awill157@msudenver.edu](mailto:awill157@msudenver.edu).
 
 ---
 
