@@ -4,7 +4,7 @@ This document provides information for developing and maintaining the C3 Lab web
 
 ## Project Overview
 
-The C3 Lab website is a Jekyll-based static site hosted on GitHub Pages at the custom domain `c3-lab.org`. It showcases the Community-Centered Computing Lab, its directors, and research projects.
+The C3 Lab website is a Jekyll-based static site hosted on GitHub Pages at the custom domain `c3-lab.org`. It showcases the Community-Centered Computing Lab, its team, and research projects.
 
 ## Technology Stack
 
@@ -158,10 +158,10 @@ Content appears in multiple locations. When updating, check ALL locations:
 |---------|-----------|
 | Project titles & descriptions | `index.html` (homepage cards), `_projects/*.md` (detail pages), `projects/index.html` |
 | Funding/award info | `_projects/*.md` front matter |
-| Team members | `team.md`, `index.html` (Lab Directors section) |
+| Team members | `team.md`, `index.html` (Our Team section) |
 
 ### Director Information
-- **Homepage**: `index.html` - abbreviated bios in Lab Directors section
+- **Homepage**: `index.html` - abbreviated bios in Our Team section
 - **Team page**: `team.md` - full bios with contact info
 - **Footer**: `_includes/footer.html` - department link only
 
