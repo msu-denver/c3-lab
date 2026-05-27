@@ -33,12 +33,12 @@ c3-lab/
 ├── _posts/               # News/update posts
 ├── assets/
 │   ├── css/style.css     # Main stylesheet
-│   └── images/           # Director photos, logos
+│   └── images/           # Team photos, logos
 ├── projects/
 │   └── index.html        # Projects listing page
 ├── index.html            # Homepage
 ├── about.md              # About the lab
-├── team.md               # Directors page
+├── team.md               # Team page
 ├── updates.html          # News/updates listing
 ├── serve.sh              # Local development script
 ├── Gemfile               # Ruby dependencies
@@ -116,7 +116,7 @@ links:
 Full project description...
 ```
 
-### Updating Director Bios
+### Updating Team Bios
 
 Edit `team.md` for detailed bios. The homepage (`index.html`) shows abbreviated versions.
 
@@ -160,7 +160,7 @@ Content appears in multiple locations. When updating, check ALL locations:
 | Funding/award info | `_projects/*.md` front matter |
 | Team members | `team.md`, `index.html` (Our Team section) |
 
-### Director Information
+### Team Information
 - **Homepage**: `index.html` - abbreviated bios in Our Team section
 - **Team page**: `team.md` - full bios with contact info
 - **Footer**: `_includes/footer.html` - department link only
