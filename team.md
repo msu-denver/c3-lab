@@ -115,7 +115,7 @@ An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project 
 ### Responsibilities
 
 - **Technical leadership** — code review, architectural guidance, AWS cloud infrastructure, API and data integration across [Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}), [RILE Connect]({{ '/projects/rile-connect/' | relative_url }}), and [Roadrunner Connect]({{ '/projects/roadrunner-connect/' | relative_url }}), plus QA and system testing.
-- **Project coordination** — timelines, deliverables, Agile workflow (sprint planning, backlog management, feature scoping), and reporting across federal (NSF), state (SIPA), and institutional (MSU Denver) projects, in coordination with partner institutions at CSU Fort Collins, CSU Pueblo, University of Northern Colorado, and University of Denver.
+- **Project coordination** — timelines, deliverables, Agile workflow (sprint planning, backlog management, feature scoping), and reporting across all four active lab projects (Sustainability Hub, RILE Connect, [Peer Support Hub]({{ '/projects/peer-support-hub/' | relative_url }}), Roadrunner Connect) spanning federal (NSF), state (SIPA), and institutional (MSU Denver) funding sources, in coordination with partner institutions at CSU Fort Collins, CSU Pueblo, University of Northern Colorado, and University of Denver.
 - **Student researcher mentoring** — onboarding (environment setup, GitHub workflows, coding standards), day-to-day technical guidance, and coordination across the lab's multi-cohort undergraduate and graduate research team.
 - **Community engagement** for the Sustainability Hub, including listening sessions, stakeholder outreach, and the Hub's pilot with the Larimer County Department of Health and Environment.
 
