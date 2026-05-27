@@ -130,4 +130,4 @@ The C3 Lab welcomes students from Computer Science, Data Science and Machine Lea
 
 **Interested in joining?** Complete our [Student Interest Form](https://forms.office.com/r/6wgNT9HscW) to express your interest in the lab!
 
-You can also contact either co-director directly to learn about current opportunities.
+You can also contact a co-director directly about research direction and opportunities, or reach out to our Technical Project Manager [Alyssa Williams](mailto:awill157@msudenver.edu) for questions about ongoing student research roles and project coordination.
