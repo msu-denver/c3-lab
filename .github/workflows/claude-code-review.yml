@@ -67,9 +67,10 @@ jobs:
           claude_args: '--model opus'
           prompt: >-
             /code-review:code-review ${{ github.repository }}/pull/${{ github.event.pull_request.number }} --comment
-            Additionally: if this PR changes application or library source code in a way
-            that warrants tests (new or changed behavior, bug fixes, new branches or edge
-            cases) and does NOT add or update corresponding tests, flag it as a HIGH-severity
-            review finding naming the untested change. Exempt docs-only, README, comments,
-            formatting, and pure-configuration changes (CI YAML, lockfile bumps, asset-only,
-            version bumps) from this requirement.
+            Always include a "Test coverage" section in your review (never omit it). This is a
+            Jekyll content site with no automated test suite, so: if the PR adds non-trivial
+            logic (Ruby plugins, JS, build scripts) that would warrant tests, say so and note
+            that the repo has no test harness today; otherwise (content, layout, styling, config,
+            docs changes) state explicitly "No test changes needed: <reason>" rather than staying
+            silent. You have no build/test runner in this environment, so do not claim to run the
+            site build and do not tell the reader to "confirm CI is green".
