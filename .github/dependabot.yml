@@ -5,12 +5,12 @@
 #   * github-actions — bumps SHA-pinned action references in .github/workflows
 #     when new tagged versions ship. Critical for keeping the Claude review
 #     workflows, the Jekyll CI workflow, and any future actions current with
-#     upstream security fixes.
+#     upstream security fixes. Grouped into a single PR per run to reduce noise.
 #
 #   * bundler — bumps the Ruby dependencies declared in Gemfile (Jekyll, the
-#     theme, the plugin set). Weekly cadence to keep the noise low; security
-#     updates land out-of-band via the repo-level "Dependabot security
-#     updates" setting.
+#     theme, the plugin set). Weekly cadence to keep the noise low; minor and
+#     patch bumps are grouped into one PR. Security updates land out-of-band
+#     via the repo-level "Dependabot security updates" setting.
 
 version: 2
 updates:
@@ -18,16 +18,17 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 5
-    labels:
-      - "dependencies"
-      - "github-actions"
+    groups:
+      actions:
+        patterns:
+          - "*"
 
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 5
-    labels:
-      - "dependencies"
-      - "ruby"
+    groups:
+      minor-patch:
+        update-types:
+          - "minor"
+          - "patch"

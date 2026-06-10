@@ -65,4 +65,11 @@ jobs:
           track_progress: true
           allowed_bots: 'claude[bot]'
           claude_args: '--model opus'
-          prompt: '/code-review:code-review ${{ github.repository }}/pull/${{ github.event.pull_request.number }} --comment'
+          prompt: >-
+            /code-review:code-review ${{ github.repository }}/pull/${{ github.event.pull_request.number }} --comment
+            Additionally: if this PR changes application or library source code in a way
+            that warrants tests (new or changed behavior, bug fixes, new branches or edge
+            cases) and does NOT add or update corresponding tests, flag it as a HIGH-severity
+            review finding naming the untested change. Exempt docs-only, README, comments,
+            formatting, and pure-configuration changes (CI YAML, lockfile bumps, asset-only,
+            version bumps) from this requirement.
