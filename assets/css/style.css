@@ -964,6 +964,14 @@ img {
   text-underline-offset: 3px;
 }
 
+/* Every footer link sits on the dark navy footer, so hover/focus stays
+   white. The global `a:hover` color (dark red) drops to ~1.5:1 on navy
+   and fails WCAG AA, which is what made the "Part of ..." mark look off. */
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  color: var(--color-white);
+}
+
 @media (max-width: 640px) {
   .footer-main {
     grid-template-columns: 1fr;
