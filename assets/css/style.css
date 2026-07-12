@@ -200,7 +200,9 @@ img {
   font-weight: 600;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  color: var(--color-gray-500);
+  /* gray-700 (#374151, 7.5:1 on white) — gray-500 was ~4.27:1, under
+     the WCAG AA 4.5:1 floor for this small uppercase label. */
+  color: var(--color-gray-700);
 }
 
 .site-nav {
@@ -865,17 +867,21 @@ img {
   margin: var(--spacing-md) 0 0;
   font-size: 0.9rem;
   line-height: 1.6;
-  opacity: 0.75;
+  /* Alpha on the text color (not element opacity) so the child links
+     stay full-white and keep their own contrast. Element opacity would
+     dim the links too and push them under the WCAG AA 4.5:1 floor. */
+  color: rgba(255, 255, 255, 0.72);
 }
 
 .footer-affiliation a {
   color: var(--color-white);
   text-decoration: underline;
   text-underline-offset: 2px;
-  text-decoration-color: rgba(255, 255, 255, 0.4);
+  text-decoration-color: rgba(255, 255, 255, 0.5);
 }
 
-.footer-affiliation a:hover {
+.footer-affiliation a:hover,
+.footer-affiliation a:focus-visible {
   text-decoration-color: var(--color-white);
 }
 
@@ -890,7 +896,7 @@ img {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  opacity: 0.6;
+  color: rgba(255, 255, 255, 0.65);
 }
 
 .footer-col-list {
@@ -903,13 +909,15 @@ img {
 }
 
 .footer-col-list a {
-  color: var(--color-white);
-  opacity: 0.85;
+  /* Solid light color (contrast ~11:1 on the navy footer), not
+     opacity-dimmed white, so both rest and hover clear WCAG AA. */
+  color: rgba(255, 255, 255, 0.88);
   font-size: 0.95rem;
 }
 
-.footer-col-list a:hover {
-  opacity: 1;
+.footer-col-list a:hover,
+.footer-col-list a:focus-visible {
+  color: var(--color-white);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -927,7 +935,7 @@ img {
 
 .footer-bottom .copyright {
   font-size: 0.85rem;
-  opacity: 0.7;
+  color: rgba(255, 255, 255, 0.7);
   margin: 0;
 }
 
@@ -942,7 +950,7 @@ img {
   font-size: 0.8rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  opacity: 0.6;
+  color: rgba(255, 255, 255, 0.65);
 }
 
 .footer-affiliation-name {
