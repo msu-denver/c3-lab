@@ -62,6 +62,8 @@ lab:
   name: "C3 Lab"
   full_name: "Community-Centered Computing Lab"
   university: "Metropolitan State University of Denver"
+  university_short: "MSU Denver"
+  university_url: "https://www.msudenver.edu/"
   department: "Department of Computer Sciences"
   department_url: "https://www.msudenver.edu/computer-sciences/"
 

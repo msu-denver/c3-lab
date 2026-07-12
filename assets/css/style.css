@@ -171,11 +171,17 @@ img {
 
 .site-logo {
   display: flex;
-  align-items: baseline;
-  gap: 0.25rem;
+  flex-direction: column;
   text-decoration: none;
   font-family: var(--font-serif);
   font-weight: 700;
+  line-height: 1.1;
+}
+
+.logo-mark {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
 }
 
 .logo-c3 {
@@ -186,6 +192,15 @@ img {
 .logo-lab {
   font-size: 1.25rem;
   color: var(--color-secondary);
+}
+
+.logo-affiliation {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--color-gray-500);
 }
 
 .site-nav {
@@ -856,6 +871,46 @@ img {
 
 .footer-info a {
   color: var(--color-white);
+}
+
+.footer-affiliation {
+  max-width: 32rem;
+  line-height: 1.6;
+}
+
+.footer-affiliation a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-affiliation-bar {
+  display: flex;
+  justify-content: center;
+  padding: var(--spacing-xl) 0 var(--spacing-lg);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-affiliation-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.25rem;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  color: var(--color-white);
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  transition: background var(--transition-base), border-color var(--transition-base);
+}
+
+.footer-affiliation-badge:hover,
+.footer-affiliation-badge:focus {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-affiliation-badge strong {
+  font-weight: 700;
 }
 
 .footer-bottom {
