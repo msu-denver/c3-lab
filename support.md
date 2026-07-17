@@ -75,7 +75,7 @@ The most direct measure of what a gift supports is what students say about their
 
 ## How to give
 
-Gifts to the C3 Lab are received through **MSU Denver University Advancement**. In the near term, gifts are held in the Computer Science General Fund with C3 Lab designation, coordinated with the department chair. Once fundraising commitments reach the University's threshold for a dedicated program fund, the C3 Lab will have its own foundation account through the MSU Denver Foundation.
+Gifts to the C3 Lab are made through **MSU Denver University Advancement** and go directly toward student researchers and the technology that makes their work possible.
 
 To discuss a gift or arrange a visit to the lab, please contact:
 
