@@ -13,6 +13,14 @@ The C3 Lab is a research and teaching program. Every dollar we spend goes toward
 
 Federal and state grants fund the projects we've already won. **Philanthropic gifts to the lab fund the next student who walks in the door** — extending the number of undergraduate and graduate researchers we can bring in each year, and giving them hands-on experience with the applied AI, cloud, and data systems that shape careers.
 
+<div class="stat-row">
+  <div class="stat"><span class="stat-number">30+</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
+  <div class="stat"><span class="stat-number">4</span><span class="stat-label">funded, community-serving projects</span></div>
+  <div class="stat"><span class="stat-number">$1.7M+</span><span class="stat-label">in federal &amp; state research funding won</span></div>
+</div>
+
+That experience follows students into their careers. Lab alumni have gone on to software-engineering and AI roles across Colorado's tech industry and into graduate study. Philanthropic support is how we widen that pipeline: more students in the lab means more Colorado technologists graduating ready to build.
+
 ## What a gift supports
 
 ### Direct student research support
@@ -73,18 +81,16 @@ The most direct measure of what a gift supports is what students say about their
   </figure>
 </div>
 
-## How to give
+## Invest in the next generation
 
-Gifts to the C3 Lab are made through **MSU Denver University Advancement** and go directly toward student researchers and the technology that makes their work possible.
+A gift to the C3 Lab is an investment that pays back on both sides. Students gain the hands-on, career-launching experience that a classroom can't provide, and Colorado gains skilled technologists and community-serving technology built right here at MSU Denver. Your investment is what lets us bring more students in and keep that pipeline growing.
 
-To discuss a gift or arrange a visit to the lab, please contact:
+Gifts are made through **MSU Denver University Advancement** and go directly toward student researchers and the technology that makes their work possible.
+
+To invest, or to talk through the options and see the lab firsthand, please contact:
 
 - **Yazmin Castillo**, Associate Director of Development, MSU Denver University Advancement — [yacastillo@msudenver.edu](mailto:yacastillo@msudenver.edu)
 - **Dr. Daniel Pittman**, Co-Director, C3 Lab — [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu)
-
-## Why it matters
-
-Students who come through the C3 Lab don't just study computing. They build production software used by Colorado communities, contribute to federally and state-funded research, co-author peer-reviewed papers, and graduate positioned at the forefront of AI and emerging technologies. Your support is what lets us bring more of them in.
 
 <figure class="support-band">
   <img src="{{ '/assets/images/lab-code.jpg' | relative_url }}" alt="Three C3 Lab members working at laptops in a darkened room, with a large code editor projected on the screen behind them">

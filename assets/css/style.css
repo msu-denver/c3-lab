@@ -885,6 +885,46 @@ img {
   }
 }
 
+/* At-a-glance stat row (Support page "by the numbers") */
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacing-lg);
+  margin: var(--spacing-xl) 0;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: var(--spacing-md);
+  text-align: center;
+  background: var(--color-gray-50);
+  border-top: 3px solid var(--color-primary);
+  border-radius: 0 0 8px 8px;
+}
+
+.stat-number {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--color-primary);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  line-height: 1.35;
+  color: var(--color-gray-700);
+}
+
+@media (max-width: 640px) {
+  .stat-row {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+  }
+}
+
 /* Post meta */
 .post-meta {
   font-size: 0.9rem;
