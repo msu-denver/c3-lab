@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Our Mission
 
-The **Community-Centered Computing Lab (C3 Lab)** is a research lab in the [Department of Computer Sciences]({{ site.lab.department_url }}) at Metropolitan State University of Denver. Co-directed by Dr. Daniel Pittman and Dr. Ranjidha Rajan, the lab supports research and development projects that create technology for communities.
+The **Community-Centered Computing Lab (C3 Lab)** is a research lab in the [Department of Computer Sciences]({{ site.lab.department_url }}) at Metropolitan State University of Denver. Co-directed by Dr. Daniel Pittman and Dr. Ranjidha Rajan, with Alyssa Williams as its Technical Project Manager (TPM), the lab supports research and development projects that create technology for communities.
 
 Our mission is to **design and deploy computing systems that empower communities** by improving access to information, strengthening decision-making, and enabling human-centered interaction with data and AI tools.
 

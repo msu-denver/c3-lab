@@ -4,25 +4,33 @@
       <div class="footer-brand">
         <span class="footer-logo">C3 Lab</span>
         <p class="footer-tagline">Community-Centered Computing Lab</p>
+        <p class="footer-affiliation">
+          A research lab in the
+          <a href="{{ site.lab.department_url }}" target="_blank" rel="noopener">{{ site.lab.department }}</a>
+          at
+          <a href="{{ site.lab.university_url }}" target="_blank" rel="noopener">{{ site.lab.university_short }}</a>.
+        </p>
       </div>
 
-      <div class="footer-info">
-        <p>
-          <a href="{{ site.lab.department_url }}" target="_blank" rel="noopener">
-            {{ site.lab.department }}
-          </a>
-        </p>
-        <p>{{ site.lab.university }}</p>
-      </div>
+      <nav class="footer-col" aria-label="Get involved">
+        <span class="footer-col-heading">Get Involved</span>
+        <ul class="footer-col-list">
+          <li><a href="{{ '/support/' | relative_url }}">Support the Lab</a></li>
+          <li><a href="https://forms.office.com/r/6wgNT9HscW" target="_blank" rel="noopener">Join as a Student</a></li>
+          <li><a href="{{ '/projects/' | relative_url }}">Our Projects</a></li>
+          <li><a href="https://github.com/{{ site.github_username }}/c3-lab" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+      </nav>
     </div>
 
     <div class="footer-bottom">
       <p class="copyright">
         &copy; {{ 'now' | date: "%Y" }} C3 Lab. All rights reserved.
       </p>
-      <p class="footer-links">
-        <a href="https://github.com/{{ site.github_username }}/c3-lab" target="_blank" rel="noopener">GitHub</a>
-      </p>
+      <a href="{{ site.lab.university_url }}" target="_blank" rel="noopener" class="footer-affiliation-mark">
+        <span class="footer-affiliation-prefix">Part of</span>
+        <span class="footer-affiliation-name">{{ site.lab.university }}</span>
+      </a>
     </div>
   </div>
 </footer>

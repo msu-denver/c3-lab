@@ -171,11 +171,17 @@ img {
 
 .site-logo {
   display: flex;
-  align-items: baseline;
-  gap: 0.25rem;
+  flex-direction: column;
   text-decoration: none;
   font-family: var(--font-serif);
   font-weight: 700;
+  line-height: 1.1;
+}
+
+.logo-mark {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
 }
 
 .logo-c3 {
@@ -186,6 +192,17 @@ img {
 .logo-lab {
   font-size: 1.25rem;
   color: var(--color-secondary);
+}
+
+.logo-affiliation {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  /* gray-700 (#374151, 7.5:1 on white) — gray-500 was ~4.27:1, under
+     the WCAG AA 4.5:1 floor for this small uppercase label. */
+  color: var(--color-gray-700);
 }
 
 .site-nav {
@@ -787,6 +804,87 @@ img {
   margin-bottom: var(--spacing-sm);
 }
 
+/* ============================================
+   Support page: hero image, image bands, testimonials
+   ============================================ */
+.support-hero,
+.support-band {
+  margin: 0 0 var(--spacing-xl);
+}
+
+.support-band {
+  margin: var(--spacing-2xl) 0;
+}
+
+.support-hero img,
+.support-band img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.25);
+}
+
+.testimonials {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-lg);
+  margin: var(--spacing-xl) 0;
+}
+
+.testimonial {
+  margin: 0;
+  padding: var(--spacing-lg);
+  background: var(--color-gray-50);
+  border-left: 4px solid var(--color-primary);
+  border-radius: 0 8px 8px 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.testimonial blockquote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+}
+
+.testimonial blockquote::before {
+  content: "\201C";
+  color: var(--color-primary);
+  font-family: var(--font-serif);
+  font-size: 1.4em;
+  line-height: 0;
+  margin-right: 0.1em;
+  vertical-align: -0.35em;
+}
+
+.testimonial figcaption {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+}
+
+.testimonial-name {
+  font-weight: 700;
+  color: var(--color-secondary);
+}
+
+.testimonial-role {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .testimonials {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Post meta */
 .post-meta {
   font-size: 0.9rem;
@@ -828,13 +926,10 @@ img {
 }
 
 .footer-main {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  gap: var(--spacing-xl);
-  padding-bottom: var(--spacing-xl);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: var(--spacing-2xl) 6rem;
+  align-items: start;
 }
 
 .footer-logo {
@@ -849,13 +944,63 @@ img {
   margin-bottom: 0;
 }
 
-.footer-info p {
-  margin: var(--spacing-xs) 0;
-  opacity: 0.8;
+.footer-affiliation {
+  margin: var(--spacing-md) 0 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  /* Alpha on the text color (not element opacity) so the child links
+     stay full-white and keep their own contrast. Element opacity would
+     dim the links too and push them under the WCAG AA 4.5:1 floor. */
+  color: rgba(255, 255, 255, 0.72);
 }
 
-.footer-info a {
+.footer-affiliation a {
   color: var(--color-white);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-affiliation a:hover,
+.footer-affiliation a:focus-visible {
+  text-decoration-color: var(--color-white);
+}
+
+.footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.footer-col-heading {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.footer-col-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.footer-col-list a {
+  /* Solid light color (contrast ~11:1 on the navy footer), not
+     opacity-dimmed white, so both rest and hover clear WCAG AA. */
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.95rem;
+}
+
+.footer-col-list a:hover,
+.footer-col-list a:focus-visible {
+  color: var(--color-white);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .footer-bottom {
@@ -864,22 +1009,60 @@ img {
   align-items: center;
   flex-wrap: wrap;
   gap: var(--spacing-md);
+  margin-top: var(--spacing-xl);
   padding-top: var(--spacing-lg);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
 
-.copyright {
+.footer-bottom .copyright {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.7);
   margin: 0;
-  opacity: 0.7;
-  font-size: 0.9rem;
 }
 
-.footer-links a {
+.footer-affiliation-mark {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
   color: var(--color-white);
-  opacity: 0.8;
 }
 
-.footer-links a:hover {
-  opacity: 1;
+.footer-affiliation-prefix {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.footer-affiliation-name {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.footer-affiliation-mark:hover .footer-affiliation-name {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Every footer link sits on the dark navy footer, so hover/focus stays
+   white. The global `a:hover` color (dark red) drops to ~1.5:1 on navy
+   and fails WCAG AA, which is what made the "Part of ..." mark look off. */
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  color: var(--color-white);
+}
+
+@media (max-width: 640px) {
+  .footer-main {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-xl);
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 
 /* ============================================
