@@ -91,6 +91,7 @@ To invest, or to talk through the options and see the lab firsthand, please cont
 
 - **Yazmin Castillo**, Associate Director of Development, MSU Denver University Advancement — [yacastillo@msudenver.edu](mailto:yacastillo@msudenver.edu)
 - **Dr. Daniel Pittman**, Co-Director, C3 Lab — [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu)
+- **Dr. Ranjidha Rajan**, Co-Director, C3 Lab — [rranjidh@msudenver.edu](mailto:rranjidh@msudenver.edu)
 
 <figure class="support-band">
   <img src="{{ '/assets/images/lab-code.jpg' | relative_url }}" alt="Three C3 Lab members working at laptops in a darkened room, with a large code editor projected on the screen behind them">
