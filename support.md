@@ -38,8 +38,8 @@ Undergraduate researchers in the C3 Lab earn $22 per hour, working part-time dur
 The lab's research works with **agentic AI** — AI systems that plan, use tools, and coordinate with one another. Sustainability Hub students work daily with these frameworks, and the lab's open-source [BiliCore](https://github.com/msu-denver/bili-core) evaluation framework is one of the results. Gifts in this category put frontier AI tools directly in students' hands:
 
 - **$240** funds one student's frontier AI-model subscription for a year.
-- **$1,600–$2,000** funds a workstation-class GPU for local AI development.
-- **$3,500** funds a complete AI workstation for shared lab use.
+- **$2,000–$2,500** funds a high-performance GPU (32GB) for local AI development.
+- **$4,000** funds a complete AI workstation for shared lab use.
 
 Recurring annual gifts at any level give the lab planning certainty a full year in advance, and support each new cohort of students continuously.
 
