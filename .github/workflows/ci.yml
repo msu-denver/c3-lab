@@ -27,12 +27,12 @@ jobs:
     steps:
       # SHA-pinned actions/checkout v4.2.2
       - name: Check out the repository
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       # SHA-pinned ruby/setup-ruby v1.310.0. Bump by re-resolving the v1 tag:
       #   gh api repos/ruby/setup-ruby/tags --jq '.[0]'
       - name: Set up Ruby
-        uses: ruby/setup-ruby@afeafc3d1ab54a631816aba4c914a0081c12ff2f # v1.310.0
+        uses: ruby/setup-ruby@a30dfa457ad68707b8b910ac3a244714b61c0626 # v1.320.0
         with:
           ruby-version: '3.2'
           bundler-cache: true
