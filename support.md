@@ -75,7 +75,7 @@ The most direct measure of what a gift supports is what students say about their
   <figure class="testimonial">
     <blockquote>I've been a part of the Roadrunner Connect project in the C3 Lab since May, and it's been the most educational part of my academic career. I've gained knowledge in both front-end and back-end development on an established project being used in the real world, along with problem-solving, teamwork, and communication skills that couldn't be gained inside a classroom.</blockquote>
     <figcaption>
-      <span class="testimonial-name">Kenna Finotti</span>
+      <span class="testimonial-name">Esther Finotti</span>
       <span class="testimonial-role">Roadrunner Connect</span>
     </figcaption>
   </figure>
