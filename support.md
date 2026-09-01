@@ -14,7 +14,7 @@ The C3 Lab is a research and teaching program. Every dollar we spend goes toward
 Federal and state grants fund the projects we've already won. **Philanthropic gifts to the lab fund the next student who walks in the door** — extending the number of undergraduate and graduate researchers we can bring in each year, and giving them hands-on experience with the applied AI, cloud, and data systems that shape careers.
 
 <div class="stat-row">
-  <div class="stat"><span class="stat-number">40+</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
+  <div class="stat"><span class="stat-number">41</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
   <div class="stat"><span class="stat-number">4</span><span class="stat-label">funded, community-serving projects</span></div>
   <div class="stat"><span class="stat-number">$1.7M+</span><span class="stat-label">in federal &amp; state research funding won</span></div>
 </div>
