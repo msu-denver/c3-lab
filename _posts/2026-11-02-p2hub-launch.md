@@ -11,4 +11,4 @@ P2Hub opened to faculty on September 30 for the Learning Assistant application w
 
 Each program keeps control of its own timeline and rules. P2Hub supplies the shared infrastructure: one place to request, apply, review and stay informed, with email at every step and step-by-step guides for every role. It is built to Colorado's digital accessibility law and works on phones as well as desktops.
 
-Supplemental Instruction and Teaching Assistants are coming soon. P2Hub is built by C3 Lab student developers working alongside faculty, and it is the lab's newest platform in production.
+The Spring 2027 term runs Learning Assistant applications through P2Hub. For Fall 2027, the goal is for the Teaching Assistant and Supplemental Instruction programs to take applications through P2Hub as well. P2Hub is built by C3 Lab student developers working alongside faculty, and it is the lab's newest platform in production.

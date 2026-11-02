@@ -18,7 +18,7 @@ The Peer Support Hub (P2Hub) opened to MSU Denver faculty on September 30, 2026,
 
 P2Hub is one platform that coordinates MSU Denver's three peer support programs: [Supplemental Instruction (SI)](https://www.msudenver.edu/student-academic-services/supplemental-instruction/), [Teaching Assistants (TA)](https://www.msudenver.edu/student-academic-services/teaching-assistant-program/), and [Learning Assistants (LA)](https://www.msudenver.edu/learning-assistant-program/). Faculty request peer support for their course sections in one place and rank the programs they prefer. Each program reviews on its own timeline and keeps control of its own rules, so P2Hub provides shared infrastructure, not central control.
 
-The C3 Lab builds P2Hub in partnership with MSU Denver Student Academic Services. The Learning Assistant program is live today. Supplemental Instruction and Teaching Assistants are coming soon.
+The C3 Lab builds P2Hub in partnership with MSU Denver Student Academic Services. The Learning Assistant program is live today, and the Spring 2027 term runs LA applications through P2Hub. For Fall 2027, the goal is for the Teaching Assistant and Supplemental Instruction programs to take applications through P2Hub as well.
 
 ## What P2Hub Does Today
 
@@ -74,7 +74,9 @@ Some courses could receive several forms of support while others, including thos
 - **October 28:** The full LA workflow goes live, with coordinator review, student applications, faculty-first hiring and email at every step
 - **November 2:** The first LA decisions are released to faculty, alongside an update shaped by coordinator feedback from launch
 
-**Next:** Supplemental Instruction and Teaching Assistants join P2Hub.
+**Spring 2027:** Learning Assistant applications run through P2Hub.
+
+**Fall 2027 (goal):** The Teaching Assistant and Supplemental Instruction programs take applications through P2Hub as well.
 
 ## Project Leadership
 
