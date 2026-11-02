@@ -14,7 +14,7 @@ copi:
     affiliation: Colorado State University
   - name: Dr. Sylvester Kalevela
     affiliation: CSU Pueblo
-period: October 2023 - September 2026
+period: October 2023 - September 2027
 links:
   - text: Visit Sustainability Hub
     url: https://sustainabilityhub.co
@@ -47,7 +47,7 @@ The project supports researchers, policymakers, and community members by making 
 <div class="bili-highlight">
 <img src="{{ '/assets/images/bili-icon.svg' | relative_url }}" alt="Bili" class="bili-icon">
 <div class="bili-content">
-<p><strong>Bili is now in Beta!</strong> Try out our AI-powered sustainability assistant and help shape its development.</p>
+<p><strong>Bili is live!</strong> Try our AI-powered sustainability assistant and help shape its development.</p>
 <p><a href="https://sustainabilityhub.co" class="btn-bili">Sign up to try Bili</a></p>
 </div>
 </div>
@@ -56,30 +56,32 @@ The project supports researchers, policymakers, and community members by making 
 
 ### BiliCore Framework
 
-The team released **BiliCore**, an open-source framework for evaluating large language models in sustainability contexts. BiliCore provides:
+The team released **BiliCore**, an open-source framework that grew out of the Hub's work on Bili. It now lets researchers and developers build AI assistants, coordinate teams of cooperating AI agents, and test those systems against adversarial attacks (its components are named IRIS, AETHER, and AEGIS). The original benchmarking tools remain part of the framework and support objective comparisons of language models across varied tasks, which informs model selection for the Hub.
 
-- Modular tools for automated testing and benchmarking
-- Prompt template management
-- Model-switching experiments
-- API-based evaluation capabilities
+BiliCore is also used by other lab projects beyond the Hub. It was presented at the NAIRR Pilot Annual Meeting and accepted as Late-Breaking Work at [ACM COMPASS 2025](https://doi.org/10.5281/zenodo.15114562).
 
-BiliCore enables objective comparisons across varied tasks and intents, informing model selection for the Hub. It was presented at the NAIRR Pilot Annual Meeting and accepted as Late-Breaking Work at [ACM COMPASS 2025](https://doi.org/10.5281/zenodo.15114562).
+## What's Live
+
+The Hub is running in production at [sustainabilityhub.co](https://sustainabilityhub.co). Recent features include:
+
+- **Communities of Interest:** Topic-based communities where people discuss subjects such as water and wildfire through posts and replies, with moderators and reporting tools that keep conversations constructive.
+- **Sustainability Spotlights:** Focused pages that bring data, visuals, and conversation with Bili together around one issue. Three are live: Water Scarcity and Allocation (the Colorado River), Wildfire Risk and Mitigation in Larimer County, and Data Centers and Colorado's Front Range.
+- **Advanced Query:** A guided form for asking detailed questions of the Hub's data catalog, then continuing the exploration with Bili.
+- **A larger data catalog:** New wildfire, data center, and federal energy datasets, alongside the existing sustainability and well-being data.
+- **A redesigned home page and dashboard,** with keyboard navigation, clearer focus indicators, and improved contrast and tooltips.
+
+Interactive maps inside Bili's answers are in development.
 
 ### Publications
 
 - **Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2025). [Co-Creating a Regional Sustainability Hub: Conversational AI, Community Engagement, and Local Data for Computing in Place](https://doi.org/10.1145/3715335.3736321). ACM COMPASS 2025.
 
-## Platform Architecture
+## How It Works
 
-The Hub incorporates modern data engineering and AI technologies:
-
-- **Large Language Models (LLMs)** with Retrieval Augmented Generation (RAG)
-- **LangChain** for retrieval pipelines and tool interactions
-- **LangGraph** for managing structured agent flows
-- **PostGIS-backed geospatial database** for location-based data
-- **MongoDB** for flexible data storage
-- **MERN stack** (MongoDB, Express, React, Node.js) for the web application
-- **Accessibility-focused design** with mobile-first, responsive interfaces
+- **AI grounded in vetted data:** Bili uses large language models that draw their answers from the Hub's curated data.
+- **Geospatial integration** for location-based data across Colorado.
+- **Open-source foundations,** built on BiliCore.
+- **Accessibility-focused design** with mobile-first, responsive interfaces.
 
 ## Partner Institutions
 
@@ -144,7 +146,7 @@ The project also received support from the **National AI Research Resource (NAIR
 - **AWS Credits:** $41,678 for ETL pipelines, SageMaker ML training, Bedrock LLM services
 - **Azure Credits:** $25,200 for Azure OpenAI model training and deployment
 
-These resources support the development of Bili's RAG system and enable comparison of LLM capabilities across cloud platforms for sustainability data processing.
+These resources support the development of Bili's RAG system and enable comparison of LLM capabilities across cloud platforms for sustainability data processing. The allocation has been extended through June 2027.
 
 ## Student Involvement
 
@@ -163,24 +165,32 @@ Students have presented project work at multiple venues:
 - **GIS in the Rockies Conference** - GIS data organization and sustainability data accessibility
 - **NAIRR Pilot Inaugural Annual Meeting** - BiliCore framework demonstration
 - **14th Annual Undergraduate Research Conference at MSU Denver** - AI evaluation and LLM comparison frameworks
+- **2026 MSU Denver Undergraduate Research Conference** - Student-led design of Sustainability Spotlights, plus a poster on the multi-agent AI framework built on BiliCore
 
 ## Media Coverage
 
-The Sustainability Hub has been featured in MSU Denver's RED Magazine:
+The Sustainability Hub and Bili have been featured in local news and campus media:
 
-> **"Questions about the environment? Bili may have answers"** (January 2026)
->
-> Coverage of the Hub's development and Bili's capabilities, highlighting student contributions to the project.
+- **Denver7** (April 2026): [New MSU Denver AI chatbot aims to answer how to protect our planet](https://www.denver7.com/money/science-and-tech/new-msu-denver-ai-chatbot-aims-to-answer-how-to-protect-our-planet)
+- **MSU Denver's RED Magazine** (January 2026): [Questions about the environment? Bili may have answers](https://red.msudenver.edu/2026/questions-about-the-environment-bili-may-have-answers/)
 
-[Read the full article](https://red.msudenver.edu/2026/questions-about-the-environment-bili-may-have-answers/)
+## Talks and Recognition
+
+Team members have shared the Hub's work with academic, community, and policy audiences in 2026:
+
+- **University of Colorado Denver Data Science Symposium** (April): "Conversational AI for Community Sustainability: The Colorado Sustainability Hub"
+- **Global Environmental Justice Conference, Colorado State University** (April): a panel on building an AI tool for sustainability, with a live demonstration of Bili
+- **NAIRR Pilot Classroom Expansion Conference, Orlando** (June): a discussion session on AI tools, undergraduate student teams, and production code at teaching-focused institutions
+- **Student recognition:** A graduating senior who wrote an honors thesis on multi-agent AI security, built on BiliCore, was selected by the Carnegie Endowment for International Peace for its New Voices Conference in Washington, DC.
 
 ## Current Focus
 
-The project is currently focused on:
+The project is now in an extension year, running through September 2027. The work centers on:
 
-- Launching a working prototype of Bili for general sustainability Q&A
-- Expanding community engagement in rural Colorado regions
-- Refining BiliCore with broader model comparisons
-- Developing backend data infrastructure with ingestion pipelines
-- Conducting user testing and co-design sessions
-- Launching **Sustainability Spotlights** - focused features on specific topics, beginning with Colorado water scarcity
+- Testing the live platform with community users under real-world conditions
+- Adding interactive maps to Bili's answers
+- Extending Bili's role in helping non-technical audiences interpret and visualize sustainability data
+- Carrying the pilot with the Larimer County Department of Health and Environment through a full year of engagement
+- Adding Spotlight topics and growing the data catalog
+- Sharing the project's research through publications and presentations
+- Continuing mentored undergraduate research experiences
