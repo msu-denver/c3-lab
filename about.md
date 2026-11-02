@@ -35,8 +35,8 @@ A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher 
 ### Roadrunner Connect
 A student-built mobile and web application that enhances community engagement at MSU Denver, demonstrating our commitment to involving students in production software development.
 
-### Peer Support Hub
-A unified platform for coordinating SI, TA, and LA peer support programs at MSU Denver, streamlining faculty applications and improving equitable distribution of peer support resources across departments.
+### Peer Support Hub (P2Hub)
+Live since fall 2026, P2Hub is one platform for MSU Denver's SI, TA, and LA peer support programs. Faculty request support and hire Learning Assistants, students apply, and each program reviews on its own timeline, improving how peer support is distributed across departments.
 
 ## Student Opportunities
 

@@ -15,7 +15,7 @@ The C3 Lab is a research lab in the Department of Computer Sciences at MSU Denve
 - **Colorado Sustainability Hub** - A statewide sustainability-data platform integrating AI, geospatial systems, and natural language interaction. Features Bili, an AI-powered sustainability assistant. (NSF Award #2318730 + NAIRR Pilot)
 - **RILE Connect** - A statewide STEM mentorship and opportunity-matching platform connecting K-12 schools, higher education, nonprofits, and industry partners (SIPA GovGrants)
 - **Roadrunner Connect** - MSU Denver's all-in-one mobile and web platform for campus event discovery and engagement, built by students for the community
-- **Peer Support Hub** - A unified platform for coordinating SI, TA, and LA peer support programs at MSU Denver (MSU Denver)
+- **Peer Support Hub (P2Hub)** - MSU Denver's platform for the SI, TA, and LA peer support programs, live since fall 2026 at [peersupporthub.app](https://peersupporthub.app) (MSU Denver)
 
 ## Website
 
