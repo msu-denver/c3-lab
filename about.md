@@ -27,13 +27,13 @@ Our work spans several interconnected domains:
 The lab's research portfolio includes four major initiatives:
 
 ### Colorado Sustainability Hub
-A statewide sustainability-data platform funded by the National Science Foundation, integrating AI, geospatial systems, and natural language interaction to make Colorado's environmental data accessible to all.
+A statewide sustainability-data platform funded by the National Science Foundation. Its AI assistant, Bili, and its community features, including Communities of Interest and Sustainability Spotlights, make Colorado's environmental data accessible to all.
 
 ### RILE Connect
 A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado. Built to host many STEM ecosystems, it is preparing to launch with the Colorado STEM Ecosystem, with an organization network map, mentors, opportunities, and an AI assistant in development.
 
 ### Roadrunner Connect
-A student-built mobile and web application that enhances community engagement at MSU Denver, demonstrating our commitment to involving students in production software development.
+A student-built mobile and web app that brings campus events, GPS scavenger hunts, and food trucks to MSU Denver, demonstrating our commitment to involving students in production software development.
 
 ### Peer Support Hub (P2Hub)
 Live since fall 2026, P2Hub is one platform for MSU Denver's SI, TA, and LA peer support programs. Faculty request support and hire Learning Assistants, students apply, and each program reviews on its own timeline, improving how peer support is distributed across departments.

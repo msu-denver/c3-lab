@@ -15,15 +15,15 @@ google_play_url: https://play.google.com/store/apps/details?id=edu.msudenver.roa
 
 ## About the Project
 
-Roadrunner Connect is MSU Denver's all-in-one mobile and web platform that transforms how students, faculty, staff, and visitors engage with campus life. Built by students, for the community, it unifies event discovery across the university — from academic seminars to athletic games and cultural festivals — into one intuitive, map-driven experience.
+Roadrunner Connect is MSU Denver's all-in-one mobile and web platform that transforms how students, faculty, staff, and visitors engage with campus life. Built by students, for the community, it unifies event discovery across the university, from academic seminars to athletic games and cultural festivals, into one intuitive, map-driven experience.
 
-Whether you're looking to find a food truck on Tivoli Quad, attend a guest lecture, or cheer at a Roadrunners game, Roadrunner Connect makes it fun, easy, and rewarding.
+Whether you're looking to find a food truck on Tivoli Quad, hunt for hidden items across campus, attend a guest lecture, or cheer at a Roadrunners game, Roadrunner Connect makes it fun, easy, and rewarding. The app is live on the App Store and Google Play.
 
 ## Strategic Alignment with MSU Denver 2030
 
 Roadrunner Connect directly supports **Pillar III of the MSU Denver 2030 Strategic Plan**: *"Serve as an anchor institution by engaging with and contributing to the Denver community."*
 
-By connecting students with on-campus opportunities and fostering meaningful engagement, the app strengthens MSU Denver's role as a hub of culture, learning, and connection — helping cultivate a vibrant and inclusive campus experience.
+By connecting students with on-campus opportunities and fostering meaningful engagement, the app strengthens MSU Denver's role as a hub of culture, learning, and connection, helping cultivate a vibrant and inclusive campus experience.
 
 ## Key Features
 
@@ -31,22 +31,31 @@ By connecting students with on-campus opportunities and fostering meaningful eng
 Browse events across MSU Denver using a live, interactive campus map. Filter events by time, location, or category (e.g., Arts, Academics, Athletics, Culture).
 
 ### Integrated Calendar
-Pulls real-time event data from Trumba, Roadrunner Athletics, and RoadrunnerLink to offer a comprehensive schedule of happenings.
+Pulls real-time event data from Trumba, Roadrunner Athletics, and RoadrunnerLink to offer a comprehensive schedule of happenings. Campus food options sit alongside the events.
+
+### Scavenger Hunts
+Explore campus on GPS-guided hunts. A hot/cold indicator shows how close you are to each hidden item and which way to go. Every item opens and closes on its own schedule, with a live countdown. Clue images and hints help you along: the first hint is free, and later hints are unlocked with feathers. Hunt leaderboards and a first-to-complete bonus add friendly competition, and hunt banners on the home screen show what is running now. The Homecoming Hunt ran September 14-19, 2026.
+
+### Food Trucks and Campus Food
+Find lunch fast. The Food Trucks tab shows daily schedules, with search, favorites, and map markers that appear only on days a truck is actually scheduled. Filter by allergy and dietary needs, and see only the trucks that meet every need you select. Check in when you visit.
 
 ### Event Check-Ins
-Geographically check in at events and leave comments or post photos to share your experience.
+Check in at events and campus buildings, and leave comments or post photos to share your experience. Building check-ins are checked against each building's real outline on the map, so a check-in means you were there. Building outlines come from OpenStreetMap.
 
 ### Feather Rewards System
-Earn points ("feathers") for attending events and participating in campus life. Unlock badges, trophies, and levels as you go.
+Earn points ("feathers") for attending events, finding hunt items, and participating in campus life. Unlock badges, trophies, and levels as you go. Each badge tier awards feathers, and completing your profile earns a one-time bonus.
 
 ### Contests & Giveaways
 Compete on leaderboards or win randomized rewards by attending featured events.
 
 ### Personal Profiles
-Track your engagement, achievements, and progress over time. Coming soon: Add friends, compare progress, and build social connections.
+Track your engagement, achievements, and progress over time.
+
+### Accessible Design
+A dark mode contrast pass improves readability. Screen reader labels cover navigation and the check-in button, and the app supports large text.
 
 ### Admin Tools
-Backend dashboard for managing giveaways, moderating user content, and adding/editing placemarks and events.
+Backend dashboard for managing giveaways, moderating user content, adding and editing placemarks and events, building scavenger hunts in a step-by-step wizard that places items on the map, and managing food truck vendors.
 
 ## Get Involved. Get Rewarded.
 
@@ -95,7 +104,7 @@ The project uses modern development practices and technologies:
 - **Database Management** - Data modeling and optimization
 - **DevOps Practices** - Deployment and maintenance
 - **Map Integration** - Custom campus map for event discovery
-- **Real-time Data** - Integration with Trumba, Athletics, and RoadrunnerLink
+- **Real-time Data** - Integration with Trumba, Athletics, RoadrunnerLink, and campus food sources
 
 ## Student Learning Experience
 
@@ -108,12 +117,16 @@ Students participating in Roadrunner Connect gain experience in:
 - User experience research
 - Agile project management
 - Code review and collaboration
+- Software testing and quality assurance
 
 ### Learning by Building
 Students work on production software systems that serve real users, gaining experience that goes beyond classroom exercises.
 
 ### Full-Stack Experience
 Team members contribute across the entire application stack, from mobile development to backend services.
+
+### Quality Practices
+The app carries about 6,300 automated tests, a 90% coverage requirement on every file, and an automated AI code review on every pull request.
 
 ### Real-World Constraints
 Working on a live application teaches students about maintenance, user feedback, and iterative development.
