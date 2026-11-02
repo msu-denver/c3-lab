@@ -31,13 +31,13 @@ bundle install
 
 This repository uses a GitFlow shape:
 
-- `main` — what's published at [c3-lab.org](https://c3-lab.org/).
+- `main`: what's published at [c3-lab.org](https://c3-lab.org/).
   Protected; PRs only.
-- `develop` — integration branch. New PRs target `develop` by default.
-- Feature branches — short-lived, branched from `develop`, named with a
+- `develop`: the integration branch. New PRs target `develop` by default.
+- Feature branches: short-lived, branched from `develop`, named with a
   `feat/`, `fix/`, or `docs/` prefix.
 
-Open your PR against `develop`. Use squash-merge when landing — release
+Open your PR against `develop`. Use squash-merge when landing; release
 promotion from `develop` to `main` is handled by a maintainer via a
 rebase-merge so the two branches converge cleanly.
 
@@ -48,7 +48,7 @@ rebase-merge so the two branches converge cleanly.
 - Preserve the existing accessibility properties (skip links, focus states,
   alt text on images, heading hierarchy). See the *Accessibility
   Requirements* section in `CLAUDE.md`.
-- Site content uses MSU Denver branding — keep the established palette and
+- Site content uses MSU Denver branding; keep the established palette and
   fonts unless the change is explicitly about branding.
 
 ## No personal data in this public repository

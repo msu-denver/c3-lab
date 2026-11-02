@@ -29,7 +29,7 @@ treat as in-scope:
 - Cross-site scripting (XSS) via Liquid templates or markdown rendering.
 - Misconfiguration that exposes private information (e.g., a leaked
   credential committed to the repository's history).
-- Supply-chain issues — vulnerable transitive dependencies, compromised CI
+- Supply-chain issues: vulnerable transitive dependencies, compromised CI
   actions, build-time injection vectors.
 - Anything that could let a third party take the site offline, redirect
   visitors, or impersonate the C3 Lab via this domain.

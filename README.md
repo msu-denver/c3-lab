@@ -1,6 +1,6 @@
 # C3 Lab - Community-Centered Computing Lab
 
-![C3 Lab — Community-Centered Computing Lab at MSU Denver](docs/img/social-preview.png)
+![C3 Lab: Community-Centered Computing Lab at MSU Denver](docs/img/social-preview.png)
 
 [![CI](https://github.com/msu-denver/c3-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/msu-denver/c3-lab/actions/workflows/ci.yml)
 
