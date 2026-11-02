@@ -19,17 +19,17 @@ links:
 
 RILE Connect, the **Reciprocal Integrated Learning Ecosystem**, is a statewide, open-source digital platform designed to make Colorado's STEM ecosystem visible, navigable, and accessible. It gives learners, educators, and partner organizations shared digital infrastructure to discover opportunities, find mentors, and coordinate across sectors.
 
-RILE Connect hosts STEM ecosystems, each with its own members, content, and branding. The Colorado STEM Ecosystem is the first ecosystem on the platform.
+RILE Connect hosts STEM ecosystems, each with its own members, content, and branding. The [Colorado STEM Ecosystem](https://www.msudenver.edu/colorado-stem-ecosystem/) is the first ecosystem on the platform.
 
 ## Where RILE Connect Is Today
 
-[rileconnect.org](https://rileconnect.org) is live, with a sign-up for launch news. The web platform is built and preparing for its beta launch with the Colorado STEM Ecosystem. At launch, RILE Connect brings together:
+[rileconnect.org](https://rileconnect.org) is live, with a sign-up for updates. The web platform is in active development toward its beta launch with the Colorado STEM Ecosystem. It already includes:
 
-- **An organization directory and network map.** Browse STEM organizations as cards, or explore an interactive map of how organizations across the state connect to one another.
+- **An organization directory and network map.** Browse STEM organizations as cards, or explore an interactive map of how organizations in the Colorado STEM Ecosystem connect to one another.
 - **Ecosystem insights.** A dashboard that shows the shape of the ecosystem at a glance.
 - **Mentors.** A directory of mentors that learners and educators can browse.
-- **Opportunities.** Organizations post opportunities for learners and educators and keep their own profiles current.
-- **An AI assistant.** Ask in plain language to find organizations and mentors that fit what you are looking for.
+- **Opportunities.** Organizations share opportunities for learners and educators.
+- **An AI assistant.** Built into the platform: ask in plain language to find organizations and mentors that fit what you are looking for.
 - **Ecosystem-managed pages.** Each ecosystem edits its own pages inside the platform, so it can grow without waiting on developers.
 
 ## Grounded in Research
@@ -96,8 +96,8 @@ RILE Connect is guided by five core design principles that shape how the platfor
 **Grant Duration:** 24 months (January 2026 - December 2027)
 
 ### Year 1: Foundation
-- Web platform built: organization directory and network map, mentors, opportunities, insights, and the AI assistant
-- rileconnect.org launched with sign-up for launch news
+- Web platform in development: organization directory and network map, mentors, opportunities, insights, and an AI assistant
+- rileconnect.org launched with sign-up for updates
 - Beta launch with the Colorado STEM Ecosystem and initial partner onboarding
 
 ### Year 2: Expansion
