@@ -30,7 +30,7 @@ The lab's research portfolio includes four major initiatives:
 A statewide sustainability-data platform funded by the National Science Foundation, integrating AI, geospatial systems, and natural language interaction to make Colorado's environmental data accessible to all.
 
 ### RILE Connect
-A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado to strengthen STEM education and workforce development.
+A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado. Built to host many STEM ecosystems, it is preparing to launch with the Colorado STEM Ecosystem, bringing together an organization network map, mentors, opportunities, and an AI assistant.
 
 ### Roadrunner Connect
 A student-built mobile and web application that enhances community engagement at MSU Denver, demonstrating our commitment to involving students in production software development.
