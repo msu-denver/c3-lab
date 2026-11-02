@@ -14,7 +14,7 @@ The C3 Lab is a research and teaching program. Every dollar we spend goes toward
 Federal and state grants fund the projects we've already won. **Philanthropic gifts to the lab fund the next student who walks in the door** — extending the number of undergraduate and graduate researchers we can bring in each year, and giving them hands-on experience with the applied AI, cloud, and data systems that shape careers.
 
 <div class="stat-row">
-  <div class="stat"><span class="stat-number">30+</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
+  <div class="stat"><span class="stat-number">41</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
   <div class="stat"><span class="stat-number">4</span><span class="stat-label">funded, community-serving projects</span></div>
   <div class="stat"><span class="stat-number">$1.7M+</span><span class="stat-label">in federal &amp; state research funding won</span></div>
 </div>
@@ -75,7 +75,7 @@ The most direct measure of what a gift supports is what students say about their
   <figure class="testimonial">
     <blockquote>I've been a part of the Roadrunner Connect project in the C3 Lab since May, and it's been the most educational part of my academic career. I've gained knowledge in both front-end and back-end development on an established project being used in the real world, along with problem-solving, teamwork, and communication skills that couldn't be gained inside a classroom.</blockquote>
     <figcaption>
-      <span class="testimonial-name">Kenna Finotti</span>
+      <span class="testimonial-name">Esther Finotti</span>
       <span class="testimonial-role">Roadrunner Connect</span>
     </figcaption>
   </figure>
