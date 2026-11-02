@@ -56,7 +56,7 @@ The project supports researchers, policymakers, and community members by making 
 
 ### BiliCore Framework
 
-The team released **BiliCore**, an open-source framework that grew out of the Hub's work on Bili. It now lets researchers and developers build AI assistants, coordinate teams of cooperating AI agents, and test those systems against adversarial attacks (its components are named IRIS, AETHER, and AEGIS). The original benchmarking tools remain part of the framework and support objective comparisons of language models across varied tasks, which informs model selection for the Hub.
+The team released **BiliCore**, an open-source framework that grew out of the Hub's work on Bili. It now lets researchers and developers build AI assistants, coordinate teams of cooperating AI agents, and test those systems against adversarial attacks (its components are named IRIS, AETHER, and AEGIS). It still includes the interactive app the team used to try different language models and prompt templates, which informed model selection for the Hub.
 
 BiliCore is also used by other lab projects beyond the Hub. It was presented at the NAIRR Pilot Annual Meeting and accepted as Late-Breaking Work at [ACM COMPASS 2025](https://doi.org/10.5281/zenodo.15114562).
 
@@ -68,7 +68,7 @@ The Hub is running in production at [sustainabilityhub.co](https://sustainabilit
 - **Sustainability Spotlights:** Focused pages that bring data, visuals, and conversation with Bili together around one issue. Three are live: Water Scarcity and Allocation (the Colorado River), Wildfire Risk and Mitigation in Larimer County, and Data Centers and Colorado's Front Range.
 - **Advanced Query:** A guided form for asking detailed questions of the Hub's data catalog, then continuing the exploration with Bili.
 - **A larger data catalog:** New wildfire, data center, and federal energy datasets, alongside the existing sustainability and well-being data.
-- **A redesigned home page and dashboard,** with keyboard navigation, clearer focus indicators, and improved contrast and tooltips.
+- **A redesigned home page and dashboard,** plus accessibility improvements across the site: keyboard navigation, clearer focus indicators, better contrast, and tooltips.
 
 Interactive maps inside Bili's answers are in development.
 
@@ -78,7 +78,7 @@ Interactive maps inside Bili's answers are in development.
 
 ## How It Works
 
-- **AI grounded in vetted data:** Bili uses large language models that draw their answers from the Hub's curated data.
+- **AI grounded in real data:** Bili pairs large language models with the Hub's curated data catalog and live public sources such as weather data and web search.
 - **Geospatial integration** for location-based data across Colorado.
 - **Open-source foundations,** built on BiliCore.
 - **Accessibility-focused design** with mobile-first, responsive interfaces.
@@ -146,7 +146,7 @@ The project also received support from the **National AI Research Resource (NAIR
 - **AWS Credits:** $41,678 for ETL pipelines, SageMaker ML training, Bedrock LLM services
 - **Azure Credits:** $25,200 for Azure OpenAI model training and deployment
 
-These resources support the development of Bili's RAG system and enable comparison of LLM capabilities across cloud platforms for sustainability data processing. The allocation has been extended through June 2027.
+These resources support the development of Bili's RAG system and enable comparison of LLM capabilities across cloud platforms for sustainability data processing. In 2026 the allocation was extended through June 2027 with a $10,000 CloudBank research supplement for continued cloud use.
 
 ## Student Involvement
 
@@ -178,9 +178,11 @@ The Sustainability Hub and Bili have been featured in local news and campus medi
 
 Team members have shared the Hub's work with academic, community, and policy audiences in 2026:
 
+- **2026 NAIRR Annual Meeting, Arlington, VA** (March): a student-led [poster on AETHER](https://doi.org/10.5281/zenodo.19193458), BiliCore's framework for testing and hardening the security of AI agent systems
 - **University of Colorado Denver Data Science Symposium** (April): "Conversational AI for Community Sustainability: The Colorado Sustainability Hub"
 - **Global Environmental Justice Conference, Colorado State University** (April): a panel on building an AI tool for sustainability, with a live demonstration of Bili
-- **NAIRR Pilot Classroom Expansion Conference, Orlando** (June): a discussion session on AI tools, undergraduate student teams, and production code at teaching-focused institutions
+- **[CAPS 2026](https://participatorysciences.org/conferences/caps-2026/), the participatory sciences conference** (May): a team poster and lightning talk, "Mutual Intelligence: Integrating AI and Participatory Science for Responsible Practice," presented by Dr. Gregory Newman (Colorado State University)
+- **NAIRR Pilot Classroom Expansion Conference, Orlando** (June): a discussion session on AI tools, undergraduate student teams, and production code
 - **Student recognition:** A graduating senior who wrote an honors thesis on multi-agent AI security, built on BiliCore, was selected by the Carnegie Endowment for International Peace for its New Voices Conference in Washington, DC.
 
 ## Current Focus
@@ -191,6 +193,6 @@ The project is now in an extension year, running through September 2027. The wor
 - Adding interactive maps to Bili's answers
 - Extending Bili's role in helping non-technical audiences interpret and visualize sustainability data
 - Carrying the pilot with the Larimer County Department of Health and Environment through a full year of engagement
-- Adding Spotlight topics and growing the data catalog
+- Expanding the Spotlights and growing the data catalog
 - Sharing the project's research through publications and presentations
 - Continuing mentored undergraduate research experiences
