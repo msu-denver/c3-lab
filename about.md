@@ -36,7 +36,7 @@ A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher 
 A student-built mobile and web app that brings campus events, GPS scavenger hunts, and food trucks to MSU Denver, demonstrating our commitment to involving students in production software development.
 
 ### Peer Support Hub (P2Hub)
-Live since fall 2026, P2Hub is one platform for MSU Denver's SI, TA, and LA peer support programs. Faculty request support and hire Learning Assistants, students apply, and each program reviews on its own timeline, improving how peer support is distributed across departments.
+Live since fall 2026, P2Hub coordinates MSU Denver's peer support programs in one place, starting with Learning Assistants: faculty request support and make offers, students apply, and the program reviews on its own timeline. Bringing in the TA and SI programs is the goal for Fall 2027.
 
 ## Student Opportunities
 

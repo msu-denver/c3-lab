@@ -31,16 +31,16 @@ By connecting students with on-campus opportunities and fostering meaningful eng
 Browse events across MSU Denver using a live, interactive campus map. Filter events by time, location, or category (e.g., Arts, Academics, Athletics, Culture).
 
 ### Integrated Calendar
-Pulls real-time event data from Trumba, Roadrunner Athletics, and RoadrunnerLink to offer a comprehensive schedule of happenings. Campus food options sit alongside the events.
+Regularly syncs event data from Trumba, Roadrunner Athletics, and RoadrunnerLink to offer a comprehensive schedule of happenings. Campus food sits alongside the events: food truck schedules from the Auraria Higher Education Center (AHEC), campus dining options, Rowdy's Corner food pantry hours, and SECOR Cares mobile market visits.
 
 ### Scavenger Hunts
-Explore campus on GPS-guided hunts. A hot/cold indicator shows how close you are to each hidden item and which way to go. Every item opens and closes on its own schedule, with a live countdown. Clue images and hints help you along: the first hint is free, and later hints are unlocked with feathers. Hunt leaderboards and a first-to-complete bonus add friendly competition, and hunt banners on the home screen show what is running now. The Homecoming Hunt ran September 14-19, 2026.
+Explore campus on GPS-guided hunts. A hot/cold indicator shows how close you are to each hidden item and which way to go. Every item opens and closes on its own schedule, with a live countdown. Clue images and hints help you along: the first hint is usually free, and later hints are unlocked with feathers. Hunt leaderboards and a first-to-complete bonus add friendly competition, and hunt banners on the home screen show what is running now. The Homecoming Hunt ran September 14-19, 2026.
 
 ### Food Trucks and Campus Food
 Find lunch fast. The Food Trucks tab shows daily schedules, with search, favorites, and map markers that appear only on days a truck is actually scheduled. Filter by allergy and dietary needs, and see only the trucks that meet every need you select. Check in when you visit.
 
 ### Event Check-Ins
-Check in at events and campus buildings, and leave comments or post photos to share your experience. Building check-ins are checked against each building's real outline on the map, so a check-in means you were there. Building outlines come from OpenStreetMap.
+Check in at events and campus buildings, and leave comments or post photos to share your experience. Building check-ins are checked against the building's outline on the map. Outlines come from OpenStreetMap.
 
 ### Feather Rewards System
 Earn points ("feathers") for attending events, finding hunt items, and participating in campus life. Unlock badges, trophies, and levels as you go. Each badge tier awards feathers, and completing your profile earns a one-time bonus.
@@ -52,7 +52,7 @@ Compete on leaderboards or win randomized rewards by attending featured events.
 Track your engagement, achievements, and progress over time.
 
 ### Accessible Design
-A dark mode contrast pass improves readability. Screen reader labels cover navigation and the check-in button, and the app supports large text.
+Automated tests check text contrast against the WCAG AA standard in light and dark mode. Screen reader labels cover navigation and the check-in button, and the app supports large text.
 
 ### Admin Tools
 Backend dashboard for managing giveaways, moderating user content, adding and editing placemarks and events, building scavenger hunts in a step-by-step wizard that places items on the map, and managing food truck vendors.
@@ -98,13 +98,13 @@ The project has benefited from contributions by numerous student developers:
 
 The project uses modern development practices and technologies:
 
-- **Mobile Development** - Native mobile applications for iOS and Android
+- **Mobile Development** - One cross-platform mobile app for iOS and Android
 - **Web Development** - Responsive web interfaces
 - **Backend Services** - API development and integration
 - **Database Management** - Data modeling and optimization
 - **DevOps Practices** - Deployment and maintenance
 - **Map Integration** - Custom campus map for event discovery
-- **Real-time Data** - Integration with Trumba, Athletics, RoadrunnerLink, and campus food sources
+- **Synced Data** - Regular syncs from Trumba, Athletics, RoadrunnerLink, and campus food sources
 
 ## Student Learning Experience
 
