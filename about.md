@@ -40,7 +40,7 @@ Live since fall 2026, P2Hub coordinates MSU Denver's peer support programs in on
 
 ## Sharing Our Work
 
-In fall 2026 the lab presented one poster covering all four projects: *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams). It was selected for MSU Denver's PI Recognition and HSI Servingness Reception in September and presented at the 5th Annual MSU Denver Faculty Research Symposium in October. Each project page lists its own publications and talks.
+The lab's poster covering all four projects, *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams), was presented at the 5th Annual MSU Denver Faculty Research Symposium in October 2026. Each project page lists its own publications and talks.
 
 ## Student Opportunities
 
