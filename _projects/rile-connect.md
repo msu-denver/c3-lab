@@ -85,11 +85,11 @@ Students are not just users. They are **co-builders**, gaining hands-on experien
 
 RILE Connect is guided by five core design principles that shape how the platform is built and how it serves communities across Colorado:
 
-1. **Transparency** - Open, visible systems and decision-making
-2. **Trust** - Building confidence through reliable, secure infrastructure
-3. **Accessibility** - Ensuring all users can participate regardless of ability or location
-4. **Participation** - Enabling active engagement from all stakeholders
-5. **Replicability** - Open-source, modular design that can be adapted by other regions
+1. **Transparency** - Ecosystem visible by default. System logic explainable.
+2. **Trust** - Minimal data collection. Clear governance. Predictable behavior.
+3. **Accessibility** - WCAG 2.1 AA baseline. Mobile-first for rural users.
+4. **Equity** - Designed for first-time users. Analytics focused on who's missing.
+5. **Replicability** - Open-source, modular, documented for other regions.
 
 ## Project Timeline
 
