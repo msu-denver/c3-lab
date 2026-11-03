@@ -88,6 +88,12 @@ Some courses could receive several forms of support while others, including thos
 **Co-Principal Investigator:**
 - [Dr. Ranjidha Rajan](https://www.linkedin.com/in/dr-ranjidha-rajan-488548b0/), Assistant Professor of Computer Science
 
+### Student Developers
+
+- **Alizah Saqib** - Summer 2026 - Present
+- **Jackson Thomas** - Fall 2026 - Present
+- **Landon Strong** - Summer 2026
+
 ### Project Team
 
 - **Undergraduate student developers** in paid research and development roles

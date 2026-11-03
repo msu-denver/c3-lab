@@ -82,6 +82,11 @@ With Roadrunner Connect, every step across campus is a chance to explore, connec
 - MSU Denver
 - June 2025 - Present
 
+**Esther Finotti**
+- Student Developer
+- MSU Denver
+- Summer 2026 - Present
+
 ### Past Student Contributors
 
 The project has benefited from contributions by numerous student developers:
