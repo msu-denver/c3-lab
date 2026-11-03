@@ -58,7 +58,7 @@ The project supports researchers, policymakers, and community members by making 
 
 The team released **BiliCore**, an open-source framework that grew out of the Hub's work on Bili. It now lets researchers and developers build AI assistants, coordinate teams of cooperating AI agents, and test those systems against adversarial attacks (its components are named IRIS, AETHER, and AEGIS). It still includes the interactive app the team used to try different language models and prompt templates, which informed model selection for the Hub.
 
-BiliCore is also used by other lab projects beyond the Hub. It was presented at the NAIRR Pilot Annual Meeting and accepted as Late-Breaking Work at [ACM COMPASS 2025](https://doi.org/10.5281/zenodo.15114562).
+BiliCore is also used by other lab projects beyond the Hub. It was first presented at the NAIRR Pilot Inaugural Annual Meeting in 2025.
 
 ## What's Live
 
@@ -72,9 +72,10 @@ The Hub is running in production at [sustainabilityhub.co](https://sustainabilit
 
 Interactive maps inside Bili's answers are in development.
 
-### Publications
+### Publications and Posters
 
 - **Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2025). [Co-Creating a Regional Sustainability Hub: Conversational AI, Community Engagement, and Local Data for Computing in Place](https://doi.org/10.1145/3715335.3736321). ACM COMPASS 2025.
+- **Farchione, L., & Pittman, D.** (2025). [Built for Sustainability, Designed for Versatility: A Customizable Framework for Evaluating Large Language Models Across Domains](https://doi.org/10.5281/zenodo.15114563). Poster, NAIRR Pilot Inaugural Annual Meeting, Arlington, VA.
 
 ## How It Works
 
@@ -165,6 +166,8 @@ Students have presented project work at multiple venues:
 - **GIS in the Rockies Conference** - GIS data organization and sustainability data accessibility
 - **NAIRR Pilot Inaugural Annual Meeting** - BiliCore framework demonstration
 - **14th Annual Undergraduate Research Conference at MSU Denver** - AI evaluation and LLM comparison frameworks
+- **Mountain West Cybersecurity Consortium Fall 2025 Conference** - "Jailbreaking the Conversation: Shared State Attacks in Large Language Models," a student talk on adversarial testing built on BiliCore
+- **Project Bridge STEM Poster Day at the Colorado State Capitol (2026)** - "Making Sustainability Data Useful: Student-Built Spotlights in the Sustainability Hub," a poster students built and presented to legislators and the public
 - **2026 MSU Denver Undergraduate Research Conference** - Student-led design of Sustainability Spotlights, plus a poster on the multi-agent AI framework built on BiliCore
 
 ## Media Coverage
@@ -176,8 +179,10 @@ The Sustainability Hub and Bili have been featured in local news and campus medi
 
 ## Talks and Recognition
 
-Team members have shared the Hub's work with academic, community, and policy audiences in 2026:
+Team members have shared the Hub's work with academic, community, and policy audiences since 2025:
 
+- **Mountain West Cybersecurity Consortium Spring Conference, University of Denver** (April 2025): "Bili: A Configurable Framework for Security-Focused LLM Evaluation," presented by Dr. Daniel Pittman with Luke Farchione and Alyssa Williams
+- **Computing Community Consortium report** (February 2026): Dr. Pittman took part in the CCC workshop on converging computational and citizen science, and its participants' input shaped the published report, [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/wp-content/uploads/sites/2/2026/02/Grand-Challenges-for-the-Convergence-of-Computational-and-Citizen-Science-Research.pdf)
 - **2026 NAIRR Annual Meeting, Arlington, VA** (March): a student-led [poster on AETHER](https://doi.org/10.5281/zenodo.19193458), BiliCore's framework for testing and hardening the security of AI agent systems
 - **University of Colorado Denver Data Science Symposium** (April): "Conversational AI for Community Sustainability: The Colorado Sustainability Hub"
 - **Global Environmental Justice Conference, Colorado State University** (April): a panel on building an AI tool for sustainability, with a live demonstration of Bili

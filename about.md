@@ -38,6 +38,10 @@ A student-built mobile and web app that brings campus events, GPS scavenger hunt
 ### Peer Support Hub (P2Hub)
 Live since fall 2026, P2Hub coordinates MSU Denver's peer support programs in one place, starting with Learning Assistants: faculty request support and make offers, students apply, and the program reviews on its own timeline. Bringing in the TA and SI programs is the goal for Fall 2027.
 
+## Sharing Our Work
+
+In fall 2026 the lab presented one poster covering all four projects: *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams). It was selected for MSU Denver's PI Recognition and HSI Servingness Reception in September and presented at the 5th Annual MSU Denver Faculty Research Symposium in October. Each project page lists its own publications and talks.
+
 ## Student Opportunities
 
 Students in the C3 Lab gain hands-on experience with:
