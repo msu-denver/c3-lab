@@ -184,6 +184,7 @@ The Sustainability Hub and Bili have been featured in local news and campus medi
 Team members have shared the Hub's work with academic, community, and policy audiences since 2025:
 
 - **Mountain West Cybersecurity Consortium Spring Conference, University of Denver** (April 2025): "Bili: A Configurable Framework for Security-Focused LLM Evaluation," presented by Dr. Daniel Pittman with Luke Farchione and Alyssa Williams
+- **NECO Intersections Report community conversation** (January 2026): an early demonstration of Bili for community members from six Northeast Colorado counties
 - **Computing Community Consortium report** (February 2026): Dr. Pittman took part in the CCC workshop on converging computational and citizen science, and its participants' input shaped the published report, [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/wp-content/uploads/sites/2/2026/02/Grand-Challenges-for-the-Convergence-of-Computational-and-Citizen-Science-Research.pdf)
 - **2026 NAIRR Annual Meeting, Arlington, VA** (March): a student-led [poster on AETHER](https://doi.org/10.5281/zenodo.19193458), BiliCore's framework for testing and hardening the security of AI agent systems
 - **Colorado Climate Week** (March-April): a roundtable with ProgramEarth and CitSci.org, "Who's Building the Data Behind Climate AI? Climate Data, AI, and the Next Open Dataset"

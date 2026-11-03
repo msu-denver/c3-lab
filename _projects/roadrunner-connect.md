@@ -131,6 +131,9 @@ The app carries about 6,300 automated tests, a 90% coverage requirement on every
 ### Real-World Constraints
 Working on a live application teaches students about maintenance, user feedback, and iterative development.
 
+### Presenting the Work
+Carolanne Housh, Vincent Cordova, and Kyle Zimmerman presented the poster "Social Connection Through Gamification: The Next Phase of Roadrunner Connect" at the 2025 MSU Denver Undergraduate Research Conference.
+
 ## Relationship to C3 Lab
 
 As a C3 Lab initiative, Roadrunner Connect demonstrates our core principles:
