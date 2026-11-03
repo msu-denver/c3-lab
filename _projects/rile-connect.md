@@ -23,13 +23,13 @@ RILE Connect hosts STEM ecosystems, each with its own members, content, and bran
 
 ## Where RILE Connect Is Today
 
-[rileconnect.org](https://rileconnect.org) is live, with a sign-up for updates. The web platform is in active development toward its beta launch with the Colorado STEM Ecosystem. It already includes:
+[rileconnect.org](https://rileconnect.org) is live, with a sign-up for updates. The web platform is in active development toward its beta launch with the Colorado STEM Ecosystem. Coming soon with the beta:
 
 - **An organization directory and network map.** Browse STEM organizations as cards, or explore an interactive map of how organizations in the Colorado STEM Ecosystem connect to one another.
 - **Ecosystem insights.** A dashboard that shows the shape of the ecosystem at a glance.
 - **Mentors.** A directory of mentors that learners and educators can browse.
 - **Opportunities.** Organizations share opportunities for learners and educators.
-- **An AI assistant.** Built into the platform: ask in plain language to find organizations and mentors that fit what you are looking for.
+- **An AI assistant.** Ask in plain language to find organizations and mentors that fit what you are looking for.
 - **Ecosystem-managed pages.** Each ecosystem edits its own pages inside the platform, so it can grow without waiting on developers.
 
 ## Grounded in Research
