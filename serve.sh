@@ -22,8 +22,8 @@ bundle install
 
 echo ""
 echo "Starting Jekyll server with live reload..."
-echo "Site will be available at: http://localhost:4000/c3-lab/"
+echo "Site will be available at: http://localhost:4000/"
 echo ""
 
 # Start Jekyll server with live reload
-bundle exec jekyll serve --livereload --baseurl "/c3-lab"
+bundle exec jekyll serve --livereload

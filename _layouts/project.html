@@ -35,7 +35,7 @@ layout: default
       {% endif %}
       {% if page.copi %}
       <div class="meta-item">
-        <span class="meta-label">Co-Principal Investigator{% if page.copi.size > 1 %}s{% endif %}:</span>
+        <span class="meta-label">Co-Principal Investigator{% if page.copi.first and page.copi.size > 1 %}s{% endif %}:</span>
         <span class="meta-value">
           {% if page.copi.first %}
             {% for person in page.copi %}

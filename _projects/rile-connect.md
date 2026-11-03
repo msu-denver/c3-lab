@@ -9,13 +9,32 @@ copi:
   - Dr. Janelle Johnson
 period: January 2026 - December 2027
 links:
+  - text: Visit RILE Connect
+    url: https://rileconnect.org
   - text: SIPA GovGrants Program
     url: https://sipa.colorado.gov/govgrants
 ---
 
 ## About the Project
 
-RILE Connect — the **Reciprocal Integrated Learning Ecosystem** — is a statewide, open-source digital platform initiative designed to make the Colorado STEM ecosystem visible, navigable, and accessible. With grant support now awarded, the project is entering its initial implementation phase, focused on building shared digital infrastructure that will enable learners, educators, and partner organizations to discover opportunities and coordinate across sectors.
+RILE Connect, the **Reciprocal Integrated Learning Ecosystem**, is a statewide, open-source digital platform designed to make Colorado's STEM ecosystem visible, navigable, and accessible. It gives learners, educators, and partner organizations shared digital infrastructure to discover opportunities, find mentors, and coordinate across sectors.
+
+RILE Connect hosts STEM ecosystems, each with its own members, content, and branding. The [Colorado STEM Ecosystem](https://www.msudenver.edu/colorado-stem-ecosystem/) is the first ecosystem on the platform.
+
+## Where RILE Connect Is Today
+
+[rileconnect.org](https://rileconnect.org) is live, with a sign-up for updates. The web platform is in active development toward its beta launch with the Colorado STEM Ecosystem. Coming soon with the beta:
+
+- **An organization directory and network map.** Browse STEM organizations as cards, or explore an interactive map of how organizations in the Colorado STEM Ecosystem connect to one another.
+- **Ecosystem insights.** A dashboard that shows the shape of the ecosystem at a glance.
+- **Mentors.** A directory of mentors that learners and educators can browse.
+- **Opportunities.** Organizations share opportunities for learners and educators.
+- **An AI assistant.** Ask in plain language to find organizations and mentors that fit what you are looking for.
+- **Ecosystem-managed pages.** Each ecosystem edits its own pages inside the platform, so it can grow without waiting on developers.
+
+## Grounded in Research
+
+RILE Connect puts into practice the vision of the white paper *Foundation of a Reciprocal Integrated Learning Ecosystem (RILE): Learning from the Ground Up* (Johnson, Kumin, and Rajan; Colorado STEM Ecosystem; [doi:10.25261/cstem124](https://doi.org/10.25261/cstem124)). The paper called for systems that other ecosystems can repurpose, which is why RILE Connect is built to host many ecosystems rather than one.
 
 ## Why Now?
 
@@ -60,11 +79,11 @@ With this grant, RILE Connect will be developed for statewide availability, serv
 - **Educators and ecosystem partners** contributing to requirements, feedback, and opportunities
 - **Industry and nonprofit collaborators** supporting mentorship and workforce alignment
 
-Students are not just users—they are **co-builders**, gaining hands-on experience in civic technology, cloud systems, and applied AI while contributing to a platform designed to serve the public good.
+Students are not just users. They are **co-builders**, gaining hands-on experience in civic technology, cloud systems, and applied AI while contributing to a platform designed to serve the public good.
 
 ## Design Principles
 
-RILE Connect is guided from the outset by five core design principles that shape how the platform will be built and how it is intended to serve communities across Colorado:
+RILE Connect is guided by five core design principles that shape how the platform is built and how it serves communities across Colorado:
 
 1. **Transparency** - Open, visible systems and decision-making
 2. **Trust** - Building confidence through reliable, secure infrastructure
@@ -77,9 +96,9 @@ RILE Connect is guided from the outset by five core design principles that shape
 **Grant Duration:** 24 months (January 2026 - December 2027)
 
 ### Year 1: Foundation
-- Web platform development
-- Core infrastructure and data systems
-- Initial partner onboarding
+- Web platform in development: organization directory and network map, mentors, opportunities, insights, and an AI assistant
+- rileconnect.org launched with sign-up for updates
+- Beta launch with the Colorado STEM Ecosystem and initial partner onboarding
 
 ### Year 2: Expansion
 - Mobile application development
@@ -101,7 +120,7 @@ Students participating in RILE Connect gain experience in:
 
 ## Impact
 
-RILE Connect prioritizes making STEM opportunities visible and easier to navigate while reducing geographic and institutional barriers through an inclusive, user-centered digital system. The platform will:
+RILE Connect makes STEM opportunities visible and easier to navigate while reducing geographic and institutional barriers through an inclusive, user-centered digital system. The platform is built to:
 
 - Connect underserved communities with STEM opportunities
 - Strengthen mentorship networks across education levels

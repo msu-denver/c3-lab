@@ -27,16 +27,22 @@ Our work spans several interconnected domains:
 The lab's research portfolio includes four major initiatives:
 
 ### Colorado Sustainability Hub
-A statewide sustainability-data platform funded by the National Science Foundation, integrating AI, geospatial systems, and natural language interaction to make Colorado's environmental data accessible to all.
+A statewide sustainability-data platform funded by the National Science Foundation. Its AI assistant, Bili, and its community features, including Communities of Interest and Sustainability Spotlights, make Colorado's environmental data accessible to all.
 
 ### RILE Connect
-A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado to strengthen STEM education and workforce development.
+A SIPA-funded statewide STEM ecosystem platform connecting K-12 schools, higher education institutions, nonprofits, and industry partners across Colorado. Built to host many STEM ecosystems, it is preparing to launch with the Colorado STEM Ecosystem, with an organization network map, mentors, opportunities, and an AI assistant in development.
 
 ### Roadrunner Connect
-A student-built mobile and web application that enhances community engagement at MSU Denver, demonstrating our commitment to involving students in production software development.
+A student-built mobile and web app that brings campus events, GPS scavenger hunts, and food trucks to MSU Denver, demonstrating our commitment to involving students in production software development.
 
-### Peer Support Hub
-A unified platform for coordinating SI, TA, and LA peer support programs at MSU Denver, streamlining faculty applications and improving equitable distribution of peer support resources across departments.
+### Peer Support Hub (P2Hub)
+Live since fall 2026, P2Hub coordinates MSU Denver's peer support programs in one place, starting with Learning Assistants: faculty request support and make offers, students apply, and the program reviews on its own timeline. Bringing in the TA and SI programs is the goal for Fall 2027.
+
+## Sharing Our Work
+
+The lab's poster covering all four projects, *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams), was presented at the 5th Annual MSU Denver Faculty Research Symposium in October 2026. Publications and talks for each project appear on its project page.
+
+In April 2026, Denver7 talked with two graduating C3 Lab student developers about AI and the computing job market: [Ready to graduate: MSU Denver computer science students weigh in on AI and 'volatile' job market](https://www.denver7.com/follow-up/ready-to-graduate-msu-denver-computer-science-students-weigh-in-on-ai-and-volatile-job-market).
 
 ## Student Opportunities
 

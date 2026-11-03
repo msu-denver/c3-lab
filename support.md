@@ -11,7 +11,7 @@ permalink: /support/
 
 The C3 Lab is a research and teaching program. Every dollar we spend goes toward student research stipends, the technology that makes their work possible, and the community outcomes their work produces.
 
-Federal and state grants fund the projects we've already won. **Philanthropic gifts to the lab fund the next student who walks in the door** — extending the number of undergraduate and graduate researchers we can bring in each year, and giving them hands-on experience with the applied AI, cloud, and data systems that shape careers.
+Federal and state grants fund the projects we've already won. **Philanthropic gifts to the lab fund the next student who walks in the door.** That extends the number of undergraduate and graduate researchers we can bring in each year, and gives them hands-on experience with the applied AI, cloud, and data systems that shape careers.
 
 <div class="stat-row">
   <div class="stat"><span class="stat-number">41</span><span class="stat-label">MSU Denver students in the lab since 2023</span></div>
@@ -35,7 +35,7 @@ Undergraduate researchers in the C3 Lab earn $22 per hour, working part-time dur
 
 ### Agentic AI experience
 
-The lab's research works with **agentic AI** — AI systems that plan, use tools, and coordinate with one another. Sustainability Hub students work daily with these frameworks, and the lab's open-source [BiliCore](https://github.com/msu-denver/bili-core) evaluation framework is one of the results. Gifts in this category put frontier AI tools directly in students' hands:
+The lab's research works with **agentic AI**: AI systems that plan, use tools, and coordinate with one another. Sustainability Hub students work daily with these frameworks, and the lab's open-source [BiliCore](https://github.com/msu-denver/bili-core) evaluation framework is one of the results. Gifts in this category put frontier AI tools directly in students' hands:
 
 - **$240** funds one student's frontier AI-model subscription for a year.
 - **$2,000–$2,500** funds a high-performance GPU (32GB) for local AI development.
@@ -89,9 +89,9 @@ Gifts are made through **MSU Denver University Advancement** and go directly tow
 
 To invest, or to talk through the options and see the lab firsthand, please contact:
 
-- **Yazmin Castillo**, Associate Director of Development, MSU Denver University Advancement — [yacastillo@msudenver.edu](mailto:yacastillo@msudenver.edu)
-- **Dr. Daniel Pittman**, Co-Director, C3 Lab — [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu)
-- **Dr. Ranjidha Rajan**, Co-Director, C3 Lab — [rranjidh@msudenver.edu](mailto:rranjidh@msudenver.edu)
+- **Yazmin Castillo**, Associate Director of Development, MSU Denver University Advancement: [yacastillo@msudenver.edu](mailto:yacastillo@msudenver.edu)
+- **Dr. Daniel Pittman**, Co-Director, C3 Lab: [dpittma8@msudenver.edu](mailto:dpittma8@msudenver.edu)
+- **Dr. Ranjidha Rajan**, Co-Director, C3 Lab: [rranjidh@msudenver.edu](mailto:rranjidh@msudenver.edu)
 
 <figure class="support-band">
   <img src="{{ '/assets/images/lab-code.jpg' | relative_url }}" alt="Three C3 Lab members working at laptops in a darkened room, with a large code editor projected on the screen behind them">
