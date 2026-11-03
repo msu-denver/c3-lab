@@ -58,7 +58,7 @@ The project supports researchers, policymakers, and community members by making 
 
 The team released **BiliCore**, an open-source framework that grew out of the Hub's work on Bili. It now lets researchers and developers build AI assistants, coordinate teams of cooperating AI agents, and test those systems against adversarial attacks (its components are named IRIS, AETHER, and AEGIS). It still includes the interactive app the team used to try different language models and prompt templates, which informed model selection for the Hub.
 
-BiliCore is also used by other lab projects beyond the Hub. It was first presented at the NAIRR Pilot Inaugural Annual Meeting in 2025.
+BiliCore is also used by other lab projects beyond the Hub. It was presented at the NAIRR Pilot Inaugural Annual Meeting and in the team's [ACM COMPASS 2025 paper](https://doi.org/10.1145/3715335.3736321).
 
 ## What's Live
 
@@ -74,7 +74,7 @@ Interactive maps inside Bili's answers are in development.
 
 ### Publications and Posters
 
-- **Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2025). [Co-Creating a Regional Sustainability Hub: Conversational AI, Community Engagement, and Local Data for Computing in Place](https://doi.org/10.1145/3715335.3736321). ACM COMPASS 2025.
+- **Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2025). [Co-Creating a Regional Sustainability Hub: Conversational AI, Community Engagement, and Local Data for Computing in Place](https://doi.org/10.1145/3715335.3736321). In *Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25)*, pp. 746-751.
 - **Farchione, L., & Pittman, D.** (2025). [Built for Sustainability, Designed for Versatility: A Customizable Framework for Evaluating Large Language Models Across Domains](https://doi.org/10.5281/zenodo.15114563). Poster, NAIRR Pilot Inaugural Annual Meeting, Arlington, VA.
 
 ## How It Works
@@ -184,10 +184,12 @@ Team members have shared the Hub's work with academic, community, and policy aud
 - **Mountain West Cybersecurity Consortium Spring Conference, University of Denver** (April 2025): "Bili: A Configurable Framework for Security-Focused LLM Evaluation," presented by Dr. Daniel Pittman with Luke Farchione and Alyssa Williams
 - **Computing Community Consortium report** (February 2026): Dr. Pittman took part in the CCC workshop on converging computational and citizen science, and its participants' input shaped the published report, [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/wp-content/uploads/sites/2/2026/02/Grand-Challenges-for-the-Convergence-of-Computational-and-Citizen-Science-Research.pdf)
 - **2026 NAIRR Annual Meeting, Arlington, VA** (March): a student-led [poster on AETHER](https://doi.org/10.5281/zenodo.19193458), BiliCore's framework for testing and hardening the security of AI agent systems
+- **Colorado Climate Week** (March-April): a roundtable with ProgramEarth and CitSci.org, "Who's Building the Data Behind Climate AI? Climate Data, AI, and the Next Open Dataset"
 - **University of Colorado Denver Data Science Symposium** (April): "Conversational AI for Community Sustainability: The Colorado Sustainability Hub"
 - **Global Environmental Justice Conference, Colorado State University** (April): a panel on building an AI tool for sustainability, with a live demonstration of Bili
 - **[CAPS 2026](https://participatorysciences.org/conferences/caps-2026/), the participatory sciences conference** (May): a team poster and lightning talk, "Mutual Intelligence: Integrating AI and Participatory Science for Responsible Practice," presented by Dr. Gregory Newman (Colorado State University)
 - **NAIRR Pilot Classroom Expansion Conference, Orlando** (June): a discussion session on AI tools, undergraduate student teams, and production code
+- **National Sustainability Society Conference, Denver** (August): "From Fragmented Data to Informed Action: Exploring AI-Assisted Decision Making with the Colorado Sustainability Hub," a hands-on roundtable built around live use of the Hub and Bili
 - **Student recognition:** A graduating senior who wrote an honors thesis on multi-agent AI security, built on BiliCore, was selected by the Carnegie Endowment for International Peace for its New Voices Conference in Washington, DC.
 
 ## Current Focus
