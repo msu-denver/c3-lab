@@ -76,6 +76,8 @@ Interactive maps inside Bili's answers are in development.
 
 - **Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2025). [Co-Creating a Regional Sustainability Hub: Conversational AI, Community Engagement, and Local Data for Computing in Place](https://doi.org/10.1145/3715335.3736321). In *Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS ’25)*, pp. 746-751.
 - **Farchione, L., & Pittman, D.** (2025). [Built for Sustainability, Designed for Versatility: A Customizable Framework for Evaluating Large Language Models Across Domains](https://doi.org/10.5281/zenodo.15114563). Poster, NAIRR Pilot Inaugural Annual Meeting, Arlington, VA.
+- **Ball, M., Pittman, D., Williams, A., Haring, K., Salo, J., Newman, G., Kennedy, A., Newman, S., & Kalevela, S.** (2026). [AETHER: Agent Ecosystems for Testing, Hardening, Evaluation and Research of LLM Security and Tool-Based AI Systems](https://doi.org/10.5281/zenodo.19193458). Poster, 2026 NAIRR Annual Meeting, Arlington, VA.
+- **Pittman, D., Ball, M., Shockey, K., Chileshe, L., Dougherty, J., & Williams, A.** (2026). [BiliCore: An Open-Source Framework for LLM-Powered Applications (IRIS / AETHER / AEGIS)](https://doi.org/10.5281/zenodo.20656258). Software, version 5.11.0.
 
 ## How It Works
 
