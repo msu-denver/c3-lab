@@ -40,7 +40,7 @@ Live since fall 2026, P2Hub coordinates MSU Denver's peer support programs in on
 
 ## Sharing Our Work
 
-The lab's poster covering all four projects, *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams), was presented at the 5th Annual MSU Denver Faculty Research Symposium in October 2026. Each project page lists its own publications and talks.
+The lab's poster covering all four projects, *Community-Centered Computing: Undergraduate-Built Production Systems Across Four Funded Projects* (Pittman, Rajan, and Williams), was presented at the 5th Annual MSU Denver Faculty Research Symposium in October 2026. Publications and talks for each project appear on its project page.
 
 In April 2026, Denver7 talked with two graduating C3 Lab student developers about AI and the computing job market: [Ready to graduate: MSU Denver computer science students weigh in on AI and 'volatile' job market](https://www.denver7.com/follow-up/ready-to-graduate-msu-denver-computer-science-students-weigh-in-on-ai-and-volatile-job-market).
 
