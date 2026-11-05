@@ -1,6 +1,6 @@
 ---
 title: Colorado Sustainability Hub
-tagline: A statewide sustainability-data platform integrating geospatial systems and Bili, a live AI assistant for exploring Colorado's environmental data
+tagline: A statewide sustainability-data platform pairing geospatial systems with Bili, a live AI assistant for Colorado's environmental data
 funding: NSF CISE-MSI + NAIRR Pilot
 amount: $1,268,963
 pi: Dr. Daniel Pittman
