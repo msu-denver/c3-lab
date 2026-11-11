@@ -23,7 +23,7 @@ permalink: /team/
   <div class="team-member">
     <img src="{{ '/assets/images/williams.jpg' | relative_url }}" alt="Alyssa Williams" class="team-photo">
     <h2 class="team-name"><a href="https://www.linkedin.com/in/chillyssa/">Alyssa Williams</a></h2>
-    <p class="team-role">Technical Project Manager, C3 Lab</p>
+    <p class="team-role">Program Manager, C3 Lab</p>
     <p class="team-title">Department of Computer Sciences</p>
   </div>
 </div>
@@ -108,9 +108,9 @@ Interested in research opportunities or collaborations? Contact Dr. Rajan at [rr
 
 ## [Alyssa Williams](https://www.linkedin.com/in/chillyssa/)
 
-Alyssa Williams is the **Technical Project Manager (TPM)** for the C3 Lab. Her role blends project management (timelines, deliverables, sprint planning, and stakeholder communication) with hands-on **technical leadership**: code review and architectural guidance for student developers, AWS cloud infrastructure, API and data-integration work across the lab's projects, and QA / system testing across releases. She also leads the lab's onboarding for new student researchers (development environment setup, GitHub workflows, coding standards).
+Alyssa Williams is the **Program Manager** for the C3 Lab. Her role blends project management (timelines, deliverables, sprint planning, and stakeholder communication) with hands-on **technical leadership**: code review and architectural guidance for student developers, AWS cloud infrastructure, API and data-integration work across the lab's projects, and QA / system testing across releases. She also leads the lab's onboarding for new student researchers (development environment setup, GitHub workflows, coding standards).
 
-An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Technical Project Manager role in 2026 as the C3 Lab's portfolio expanded. She is also a research collaborator on the lab's scholarly output: co-author on the lab's [ACM COMPASS 2025](https://doi.org/10.1145/3715335.3736321) paper, and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
+An MSU Denver Computer Sciences alumna, Alyssa first joined the team as Project Manager for the [Colorado Sustainability Hub]({{ '/projects/sustainability-hub/' | relative_url }}) (NSF Award #2318730) in 2023 and stepped into the lab-wide Program Manager role in 2026 as the C3 Lab's portfolio expanded. She is also a research collaborator on the lab's scholarly output: co-author on the lab's [ACM COMPASS 2025](https://doi.org/10.1145/3715335.3736321) paper, and a faculty co-mentor for undergraduate researchers presenting at the MSU Denver Undergraduate Research Conference each year since 2024.
 
 ### Responsibilities
 
@@ -131,4 +131,4 @@ The C3 Lab welcomes students from Computer Science, Data Science and Machine Lea
 
 **Interested in joining?** Complete our [Student Interest Form](https://forms.office.com/r/6wgNT9HscW) to express your interest in the lab!
 
-You can also contact a co-director directly about research direction and opportunities, or reach out to our Technical Project Manager [Alyssa Williams](mailto:awill157@msudenver.edu) for questions about ongoing student research roles and project coordination.
+You can also contact a co-director directly about research direction and opportunities, or reach out to our Program Manager [Alyssa Williams](mailto:awill157@msudenver.edu) for questions about ongoing student research roles and project coordination.
