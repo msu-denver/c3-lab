@@ -8,7 +8,7 @@ The official website for the C3 Lab (Community-Centered Computing Lab) at Metrop
 
 ## About the C3 Lab
 
-The C3 Lab is a research lab in the Department of Computer Sciences at MSU Denver, co-directed by Dr. Daniel Pittman and Dr. Ranjidha Rajan, with Alyssa Williams as its Program Manager. We design and build technologies that support communities through accessible data systems, applied AI, and user-centered computing.
+The C3 Lab is a research lab in the Department of Computer Sciences at MSU Denver, co-directed by Dr. Daniel Pittman and Dr. Ranjidha Rajan, with Alyssa Williams as its Technical Project Manager (TPM). We design and build technologies that support communities through accessible data systems, applied AI, and user-centered computing.
 
 ### Current Projects
 
@@ -81,7 +81,7 @@ Copyright (c) 2026 C3 Lab, Metropolitan State University of Denver. All rights r
 - **Dr. Daniel Pittman** - dpittma8@msudenver.edu
 - **Dr. Ranjidha Rajan** - rranjidh@msudenver.edu
 
-**Program Manager:**
+**Technical Project Manager:**
 - **Alyssa Williams** - awill157@msudenver.edu
 
 **Department of Computer Sciences:** [msudenver.edu/computer-sciences](https://www.msudenver.edu/computer-sciences/)
