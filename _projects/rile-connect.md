@@ -7,7 +7,7 @@ pi: Dr. Ranjidha Rajan
 copi:
   - Dr. Daniel Pittman
   - Dr. Janelle Johnson
-period: January 2026 - December 2027
+period: January 2026 - January 2028
 links:
   - text: Visit RILE Connect
     url: https://rileconnect.org
@@ -93,7 +93,7 @@ RILE Connect is guided by five core design principles that shape how the platfor
 
 ## Project Timeline
 
-**Grant Duration:** 24 months (January 2026 - December 2027)
+**Grant Duration:** 24 months (January 2026 - January 2028)
 
 ### Year 1: Foundation
 - Web platform in development: organization directory and network map, mentors, opportunities, insights, and an AI assistant
