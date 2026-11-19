@@ -115,7 +115,7 @@ Students participating in RILE Connect gain experience in:
 - **Database Design and Optimization** - Managing data infrastructure
 - **Network Visualization** - Creating interactive partnership maps
 - **User Experience Design** - UI/UX prototyping and testing
-- **Applied AI** - Building recommendation and matching systems
+- **Applied AI** - Building AI assistants that help people find organizations, opportunities and mentors
 - **Civic Technology** - Understanding how technology serves public good
 
 ## Impact
