@@ -32,7 +32,7 @@ jobs:
       # SHA-pinned ruby/setup-ruby v1.310.0. Bump by re-resolving the v1 tag:
       #   gh api repos/ruby/setup-ruby/tags --jq '.[0]'
       - name: Set up Ruby
-        uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199 # v1.338.0
+        uses: ruby/setup-ruby@4e97ecde5048e1e0816923020652678063ffbf65 # v1.339.0
         with:
           ruby-version: '3.2'
           bundler-cache: true
